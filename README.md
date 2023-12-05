@@ -163,6 +163,7 @@
 * **vitalik buterin**
 * **horsefacts**
 * **nathan**
+* **austin**
 * **stephane**
 * **alex**
 * **felix**
@@ -171,13 +172,7 @@
 * **eva**
 * **bt3gl**
 
-  
-<br>
 
-#### github repositories from fellow cypherpunks
-
-* **[cypherpunk research](https://github.com/tombusby/cypherpunk-research)**
-* **[cryptoanarchywiki.github.io](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io)**
 
 <br>
 
@@ -185,8 +180,83 @@
 #### github users that embrace the cypherpunk movement 
 
 * **[@tombusby](https://github.com/tombusby)**
+* **[@jderuiter](https://github.com/jderuiter)**
+* **[@david415](https://github.com/david415)**
+* **[@austintgriffith](https://github.com/austintgriffith)**
+* **[@Yawning](https://github.com/Yawning)**
+* **[@beemo](https://github.com/b35363)**
+* **[@vmedea](https://github.com/vmedea)**
+* **[@rizzling](https://github.com/rizzling)**
+* **[Mubelotix](https://github.com/Mubelotix)**
+* **[@cyphersats](https://github.com/cyphersats)**
+* **[@brandosari](https://github.com/brandosari)**
+* **[@Satoshi0x](https://github.com/Satoshi0x)**
+* **[@AnonSatoshy](https://github.com/Cmod777)**
+* **[@awesome-doge](https://github.com/awesome-doge)**
+* **[@bunnie](https://github.com/bunnie)**
+* **[@EmelyanenkoK](https://github.com/EmelyanenkoK)**
+* **[@SwiftAdviser](https://github.com/SwiftAdviser)**
+* **[@SamsungGalaxyPlayer](https://github.com/SamsungGalaxyPlayer)**
+* **[@talkol](https://github.com/talkol)**
+* **[@HoferBit](https://github.com/HoferBit)**
+* **[@naltox](https://github.com/Naltox)**
+* **[@jphastings](https://github.com/jphastings)**
+* **[@gits7r](https://github.com/gits7r)**
+* **[@dvlkv](https://github.com/dvlkv)**
+* **[@Dimitreee](https://github.com/Dimitreee)**
+* **[@okjodom](https://github.com/okjodom)**
+* **[@dariotarantini](https://github.com/dariotarantini)**
+* **[@DanielKrawisz](https://github.com/DanielKrawisz)**
+* **[@feed3r](https://github.com/feed3r)**
+* **[@Gusarich](https://github.com/Gusarich)**
+* **[@sepezho](https://github.com/sepezho)**
+* **[@hoferbit](https://github.com/HoferBit)**
+* **[@StillFantastic](https://github.com/StillFantastic)**
+* **[@CAnorbo](https://github.com/CAnorbo)**
+* **[@jdanielricher](https://github.com/jdanielricher)**
+* **[@milochen0418](https://github.com/milochen0418)**
+* **[gabridome](https://github.com/gabridome)**
+* **[@monperrus](https://github.com/monperrus)**
+* **[@jeremy-rutman](https://github.com/jeremy-rutman)**
+* **[@lidymonteiro](https://github.com/lidymonteiro)**
+* **[@yewscion](https://github.com/yewscion)**
+* **[@rahra](https://github.com/rahra)**
+
+
 
 <br>
+
+----
+
+<br>
+
+## 💎🏴 github repositories from fellow cypherpunks 
+
+* **[cypherpunk research](https://github.com/tombusby/cypherpunk-research)**
+* **[cryptoanarchywiki.github.io](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io)**
+* **[bitcoin.org](https://github.com/bitcoin-dot-org)**
+* **[betrusted](https://github.com/betrusted-io)**
+* **[cypherpunks core](https://github.com/cypherpunks-core)**
+* **[ventuno](https://github.com/ventunobtc)**
+* **[ssp wallet](https://github.com/RunOnFlux/ssp-wallet)**
+* **[inspirada na computation](https://github.com/inspiradanacomputacao)**
+* **[france P2P (& cryptography)](https://github.com/francep2p)**
+* **[monero space](https://github.com/MoneroSpace)**
+* **[satoshi nakamoto institute](https://github.com/NakamotoInstitute)**
+* **[biblioteca bitcoin](https://github.com/ventunobtc/bibliotecabitcoin)**
+* **[tons](https://github.com/ton-blockchain)**
+* **[ctfs](https://github.com/ctfs)**
+
+<br>
+
+
+#### tools
+
+<br>
+
+* **[burner wallet](https://github.com/austintgriffith/burner-wallet)**
+* **[just delete me](https://backgroundchecks.org/justdeleteme/)**
+* 
 
 
 <br>
@@ -213,9 +283,6 @@
 
 <br>
 
-#### social-anarchy
-
-<br>
 
 
 
@@ -228,6 +295,8 @@
 ## 💎🏴 other resources
 
 <br>
+
+#### becoming a true cypherpunk (tip: do the work; wrap your anxiety in a plastic bubble)
 
 - **[mev toolkit, by go outside labs](https://github.com/go-outside-labs/mev-toolkit)**
 - **[amm arb toolkit, by go outside labs](https://github.com/go-outside-labs/amm-arb-toolkit-py)**
@@ -250,4 +319,10 @@
 - **[advanced optimization for physics, by go outside labs](https://github.com/go-outside-labs/adv-optimization-physics-py)**
 - **[ml complex networks, by go outside labs](https://github.com/go-outside-labs/ml-complex-networks)**
 - **[exolife, by go outside labs](https://github.com/go-outside-labs/exolife)**
-- **contributing: just submit a sensible pull request**
+- **[contributing to this repo: just submit a sensible pull request](https://github.com/go-outside-labs/awesome-cypherpunk/pulls)**
+
+<br>
+
+
+
+
