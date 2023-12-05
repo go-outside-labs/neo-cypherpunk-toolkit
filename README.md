@@ -160,7 +160,7 @@
 * **vinay gupta**
 * **wei dai**
 * **dahlia malkhi**
-* **vitalik buterin**
+* **vitalik**
 * **horsefacts**
 * **nathan**
 * **austin**
@@ -180,43 +180,76 @@
 #### github users that embrace the cypherpunk movement 
 
 * **[@tombusby](https://github.com/tombusby)**
+* **[@owocki](https://github.com/owocki)**
 * **[@jderuiter](https://github.com/jderuiter)**
 * **[@david415](https://github.com/david415)**
 * **[@austintgriffith](https://github.com/austintgriffith)**
 * **[@Yawning](https://github.com/Yawning)**
 * **[@beemo](https://github.com/b35363)**
 * **[@vmedea](https://github.com/vmedea)**
+* **[@jcvernaleo](https://github.com/jcvernaleo)**
 * **[@rizzling](https://github.com/rizzling)**
-* **[Mubelotix](https://github.com/Mubelotix)**
+* **[@Mubelotix](https://github.com/Mubelotix)**
 * **[@cyphersats](https://github.com/cyphersats)**
 * **[@brandosari](https://github.com/brandosari)**
 * **[@Satoshi0x](https://github.com/Satoshi0x)**
+* **[@thi4go](https://github.com/thi4go)**
+* **[@davecgh](https://github.com/davecgh)**
+* **[@dajohi](https://github.com/dajohi)**
 * **[@AnonSatoshy](https://github.com/Cmod777)**
+* **[@OrdinalMaxiBiz](https://github.com/OrdinalMaxiBiz)**
 * **[@awesome-doge](https://github.com/awesome-doge)**
 * **[@bunnie](https://github.com/bunnie)**
 * **[@EmelyanenkoK](https://github.com/EmelyanenkoK)**
+* **[@rstaudt2](https://github.com/rstaudt2)**
 * **[@SwiftAdviser](https://github.com/SwiftAdviser)**
 * **[@SamsungGalaxyPlayer](https://github.com/SamsungGalaxyPlayer)**
 * **[@talkol](https://github.com/talkol)**
+* **[@peterzen](https://github.com/peterzen)**
 * **[@HoferBit](https://github.com/HoferBit)**
 * **[@naltox](https://github.com/Naltox)**
+* **[@nvh95](https://github.com/nvh95)**
+* **[@Nuropunk](https://github.com/Nuropunk)**
 * **[@jphastings](https://github.com/jphastings)**
+* **[@marcopeereboom](https://github.com/marcopeereboom)**
+* **[@matheusd](https://github.com/matheusd)**
 * **[@gits7r](https://github.com/gits7r)**
+* **[@fguisso](https://github.com/fguisso)**
 * **[@dvlkv](https://github.com/dvlkv)**
+* **[@TheTrunk](https://github.com/TheTrunk)**
 * **[@Dimitreee](https://github.com/Dimitreee)**
+* **[@R3VoLuT1OneR](https://github.com/R3VoLuT1OneR)**
 * **[@okjodom](https://github.com/okjodom)**
+* **[@dnldd](https://github.com/dnldd)**
 * **[@dariotarantini](https://github.com/dariotarantini)**
+* **[@alexlyp](https://github.com/alexlyp)**
 * **[@DanielKrawisz](https://github.com/DanielKrawisz)**
 * **[@feed3r](https://github.com/feed3r)**
 * **[@Gusarich](https://github.com/Gusarich)**
+* **[@kevinstl](https://github.com/kevinstl)**
+* **[@KenniVelez](https://github.com/KenniVelez)**
+* **[@Hardaeborla](https://github.com/Hardaeborla)**
+* **[@zechub](https://github.com/ZecHub)**
+* **[@TonyAkinsWritesCrypto](https://github.com/TonyAkinsWritesCrypto)**
+* **[@lexihel](https://github.com/lexihel)**
 * **[@sepezho](https://github.com/sepezho)**
+* **[@c0mmando](https://github.com/c0mmando)**
+* **[@austinhuang0131](https://github.com/austinhuang0131)**
+* **[@jholdstock](https://github.com/jholdstock)**
+* **[@sefbkn](https://github.com/sefbkn)**
+* **[@elocremarc](https://github.com/elocremarc)**
 * **[@hoferbit](https://github.com/HoferBit)**
+* **[@drgoodnight](https://github.com/drgoodnight)**
 * **[@StillFantastic](https://github.com/StillFantastic)**
+* **[@JJ-Rogers](https://github.com/JJ-Rogers)**
+* **[@jrick](https://github.com/jrick)**
+* **[@jzbz](https://github.com/jzbz)**
 * **[@CAnorbo](https://github.com/CAnorbo)**
 * **[@jdanielricher](https://github.com/jdanielricher)**
 * **[@milochen0418](https://github.com/milochen0418)**
-* **[gabridome](https://github.com/gabridome)**
+* **[@gabridome](https://github.com/gabridome)**
 * **[@monperrus](https://github.com/monperrus)**
+* **[@0xSpuddy](https://github.com/0xSpuddy)**
 * **[@jeremy-rutman](https://github.com/jeremy-rutman)**
 * **[@lidymonteiro](https://github.com/lidymonteiro)**
 * **[@yewscion](https://github.com/yewscion)**
@@ -236,11 +269,16 @@
 * **[cryptoanarchywiki.github.io](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io)**
 * **[bitcoin.org](https://github.com/bitcoin-dot-org)**
 * **[betrusted](https://github.com/betrusted-io)**
+* **[tellor](https://github.com/tellor-io)**
 * **[cypherpunks core](https://github.com/cypherpunks-core)**
+* **[cypherpunk lab](https://github.com/cypherpunklab)**
 * **[ventuno](https://github.com/ventunobtc)**
 * **[ssp wallet](https://github.com/RunOnFlux/ssp-wallet)**
 * **[inspirada na computation](https://github.com/inspiradanacomputacao)**
+* **[gitcoin](https://github.com/gitcoinco)**
 * **[france P2P (& cryptography)](https://github.com/francep2p)**
+* **[bitcoin in go](https://github.com/btcsuite)**
+* **[decred](https://github.com/decred)**
 * **[monero space](https://github.com/MoneroSpace)**
 * **[satoshi nakamoto institute](https://github.com/NakamotoInstitute)**
 * **[biblioteca bitcoin](https://github.com/ventunobtc/bibliotecabitcoin)**
@@ -254,9 +292,10 @@
 
 <br>
 
+* **[join matrix](https://github.com/austinhuang0131/joinmatrix)**
 * **[burner wallet](https://github.com/austintgriffith/burner-wallet)**
 * **[just delete me](https://backgroundchecks.org/justdeleteme/)**
-* 
+* **[run on flux](https://github.com/RunOnFlux)**
 
 
 <br>
@@ -296,7 +335,8 @@
 
 <br>
 
-#### becoming a true cypherpunk (tip: do the work; wrap your anxiety in a plastic bubble)
+#### becoming a true cypherpunk 
+###### (tip: do the work; wrap your anxiety in a plastic bubble)
 
 - **[mev toolkit, by go outside labs](https://github.com/go-outside-labs/mev-toolkit)**
 - **[amm arb toolkit, by go outside labs](https://github.com/go-outside-labs/amm-arb-toolkit-py)**
