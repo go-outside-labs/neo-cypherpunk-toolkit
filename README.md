@@ -1,11 +1,32 @@
 # ✨👾 awesome cypherpunk
 
 <br>
+<br>
+
+## 💎🏴 101 
+###### (this is where The Fool start)
+
+* **[a declaration of the independence of cyberspace, by jp barlow](https://nakamotoinstitute.org/cyberspace-independence/)**
+* **[cyberspace, crypto anarchy, pushing limits, by t. may](https://nakamotoinstitute.org/cyberspace-crypto-anarchy-and-pushing-limits/)**
+* **[why i wrote PGP, by phil zimmermann](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)**
+* **[the case for privacy, by david d. friedman](https://nakamotoinstitute.org/the-case-for-privacy/)**
+
+
+<br>
+
+
+
+
+---
 
 <br>
 
 ## 💎🏴 cryptography && ciphers [knowledge]
 
+
+#### canonical readings
+
+* **[secrecy, authentication, and public key systems, by raph c. merkle](https://nakamotoinstitute.org/static/docs/secrecy-authentication-and-public-key-systems.pdf)**
 
 
 #### books
@@ -28,6 +49,32 @@
 
 <br>
 
+## 💎🏴 canonical cryptocurrencies [knowledge]
+
+
+#### papers
+
+* **[computer systems by mutually suspicious-groups, by david chaum](https://nakamotoinstitute.org/static/docs/computer-systems-by-mutually-suspicious-groups.pdf)**
+* **[smart contradts glossary, by nick szabo](https://web.archive.org/web/20160417212209/http://szabo.best.vwh.net/smart_contracts_glossary.html)**
+* **[digital bearer settlement, by r. hettinga](https://nakamotoinstitute.org/static/docs/the-geodesic-market.pdf)**
+* **[improving time stamping schemes, by a. bonneczae et al.](https://nakamotoinstitute.org/static/docs/improving-time-stamping-schemes.pdf)**
+* **[scarce objects, by nick szabo](https://nakamotoinstitute.org/scarce-objects/)**
+* **[for-pay remailers, by hal finney](https://nakamotoinstitute.org/for-pay-remailers/)**
+* **[politics vs. technology, by hal finney](https://nakamotoinstitute.org/politics-vs-technology/)**
+* **[money blockchains and social scalability](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/)**
+* **[the idea of smart contracts, by nick szabo](https://nakamotoinstitute.org/the-idea-of-smart-contracts/)**
+
+<br>
+
+#### books
+
+* **[the ethics of money production, by jg hulsmann](https://nakamotoinstitute.org/static/docs/the-ethics-of-money-production.pdf)**
+* **[on the origins of money, by carl menger](https://nakamotoinstitute.org/static/docs/on-the-origins-of-money.pdf)**
+* **[what has government done to our money, by mn rothbard](https://nakamotoinstitute.org/static/docs/what-has-government-done-to-our-money.pdf)**
+* **[human action, by ludwig von mises](https://nakamotoinstitute.org/static/docs/human-action.pdf)**
+
+
+
 ---
 
 <br>
@@ -37,20 +84,34 @@
 
 #### canonical readings && resources
 
-#### manifests
-
-* **[why i wrote PGP, by phil zimmermann](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)**
-
 
 <br>
 
 #### wikis && magazines
 
-* **[electronic magazines 🖤](http://www.textfiles.com/magazines/)**
+* **[electronic magazines](http://www.textfiles.com/magazines/)**
 * **[crypto anarchy wiki](https://cryptoanarchy.wiki/)**
 
 
 <br>
+
+
+
+----
+
+<br>
+
+## 💎🏴 autism [knowledge] 
+
+
+#### brain plasticity 
+* **[rewiring the brain, the promise and peril of neuroplasticity](https://www.youtube.com/watch?v=RDVgfFzZVsA)**
+
+<br>
+
+
+
+
 
 ---
 
@@ -65,6 +126,7 @@
 
 * **[nakamoto institute](https://nakamotoinstitute.org/)**
 * **[the american cryptogram association](https://www.cryptogram.org/)**
+* **[cypherpunk lab](https://github.com/cypherpunklab/manifesto)**
 
 <br>
 
@@ -108,27 +170,20 @@
 #### github repositories from fellow cypherpunks
 
 * **[cypherpunk research](https://github.com/tombusby/cypherpunk-research)**
-* **[cryptoanarchywiki.github.io](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io)
+* **[cryptoanarchywiki.github.io](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io)**
 
 <br>
 
 
 #### github users that embrace the cypherpunk moviment 
 
-* **@tombusby](https://github.com/tombusby)
+* **[@tombusby](https://github.com/tombusby)
 
 <br>
+
 
 ----
 
-<br>
-
-## 💎🏴 autism [knowledge] 
-
-
-<br>
-
-----
 
 <br>
 
@@ -137,6 +192,8 @@
 
 
 <br>
+
+
 
 ----
 
@@ -148,6 +205,8 @@
 
 
 <br>
+
+
 
 
 ---- 
