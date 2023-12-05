@@ -4,7 +4,7 @@
 <br>
 
 ## 💎🏴 101 
-###### (this is where The Fool start)
+###### (this is where The Fool starts)
 
 * **[a declaration of the independence of cyberspace, by jp barlow](https://nakamotoinstitute.org/cyberspace-independence/)**
 * **[cyberspace, crypto anarchy, pushing limits, by t. may](https://nakamotoinstitute.org/cyberspace-crypto-anarchy-and-pushing-limits/)**
@@ -16,23 +16,24 @@
 
 
 
-
 ---
 
 <br>
 
 ## 💎🏴 cryptography && ciphers [knowledge]
 
+<br>
 
 #### canonical readings
 
 * **[secrecy, authentication, and public key systems, by raph c. merkle](https://nakamotoinstitute.org/static/docs/secrecy-authentication-and-public-key-systems.pdf)**
 
+<br>
 
 #### books
 
 * **[applied cryptography, by bruce schneier](https://ia600202.us.archive.org/10/items/AppliedCryptographyBruceSchneier/Applied%20Cryptography%20%28Bruce%20Schneier%29.pdf)**
-* **[understanding cryptography, by cristof paar and al](https://crypto-textbook.com/)**
+* **[understanding cryptography, by cristof paar et al](https://crypto-textbook.com/)**
 * **[an introduction to mathematical cryptography, by j. hoffstein et al](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.182.9999&rep=rep1&type=pdf)**
 * **[handbook of applied cryptography, by alfred menezes et al](https://cacr.uwaterloo.ca/hac/)**
 * **[the machinery of freedom, by d. friedman](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf)**
@@ -46,18 +47,22 @@
 
 * **[introduction to cryptography, by christof paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)**
 
+<br>
+
+---
 
 <br>
 
 ## 💎🏴 canonical cryptocurrencies [knowledge]
 
+<br>
 
 #### papers
 
 * **[computer systems by mutually suspicious-groups, by david chaum](https://nakamotoinstitute.org/static/docs/computer-systems-by-mutually-suspicious-groups.pdf)**
 * **[smart contradts glossary, by nick szabo](https://web.archive.org/web/20160417212209/http://szabo.best.vwh.net/smart_contracts_glossary.html)**
 * **[digital bearer settlement, by r. hettinga](https://nakamotoinstitute.org/static/docs/the-geodesic-market.pdf)**
-* **[improving time stamping schemes, by a. bonneczae et al.](https://nakamotoinstitute.org/static/docs/improving-time-stamping-schemes.pdf)**
+* **[improving time stamping schemes, by a. bonneczae et al](https://nakamotoinstitute.org/static/docs/improving-time-stamping-schemes.pdf)**
 * **[scarce objects, by nick szabo](https://nakamotoinstitute.org/scarce-objects/)**
 * **[for-pay remailers, by hal finney](https://nakamotoinstitute.org/for-pay-remailers/)**
 * **[politics vs. technology, by hal finney](https://nakamotoinstitute.org/politics-vs-technology/)**
@@ -73,13 +78,15 @@
 * **[what has government done to our money, by mn rothbard](https://nakamotoinstitute.org/static/docs/what-has-government-done-to-our-money.pdf)**
 * **[human action, by ludwig von mises](https://nakamotoinstitute.org/static/docs/human-action.pdf)**
 
-
+<br>
 
 ---
 
 <br>
 
-## 💎🏴 cypherpunk ideas [knowledge]
+## 💎🏴 cypherpunk living [knowledge]
+
+<br>
 
 
 #### canonical readings && resources
@@ -104,12 +111,13 @@
 ## 💎🏴 autism [knowledge] 
 
 
+<br>
+
 #### brain plasticity 
+
 * **[rewiring the brain, the promise and peril of neuroplasticity](https://www.youtube.com/watch?v=RDVgfFzZVsA)**
 
 <br>
-
-
 
 
 
@@ -119,7 +127,7 @@
 
 ## 💎🏴 cypherpunks [people]
 
-
+<br>
 
 
 #### groups && communities
@@ -132,7 +140,6 @@
 
 
 #### heroes 
-
 
 * **satoshi nakamoto**
 * **adam back**
@@ -175,25 +182,28 @@
 <br>
 
 
-#### github users that embrace the cypherpunk moviment 
+#### github users that embrace the cypherpunk movement 
 
-* **[@tombusby](https://github.com/tombusby)
+* **[@tombusby](https://github.com/tombusby)**
+
+<br>
+
 
 <br>
 
 
 ----
 
-
 <br>
 
 ## 💎🏴 protopia [knowledge]
 
 
-
 <br>
 
 
+
+<br>
 
 ----
 
@@ -201,13 +211,15 @@
 
 ## 💎🏴 anarchy [knowledge]
 
-#### social-anarchy
+<br>
 
+#### social-anarchy
 
 <br>
 
 
 
+<br>
 
 ---- 
 
@@ -215,5 +227,27 @@
 
 ## 💎🏴 other resources
 
+<br>
 
-- contributing: just submit a sensible pull request.
+- **[mev toolkit, by go outside labs](https://github.com/go-outside-labs/mev-toolkit)**
+- **[amm arb toolkit, by go outside labs](https://github.com/go-outside-labs/amm-arb-toolkit-py)**
+- **[master algorithms in python (and the book), by go outside labs](https://github.com/go-outside-labs/master-algorithms-py)**
+- **[searcher for cowswap, by go outside labs](https://github.com/go-outside-labs/searcher-cowswap-py)**
+- **[generative story collection, by go outside labs](https://github.com/go-outside-labs/generative-sol)**
+- **[blockchain science in rust, by go outside labs](https://github.com/go-outside-labs/blockchain-science-rs)**
+- **[blockchain science in python, by go outside labs](https://github.com/go-outside-labs/blockchain-science-py)**
+- **[ethernaut systematic solutions in foundry, by go outside labs](https://github.com/go-outside-labs/ethernaut-systematic-solutions-foundry-sol)**
+- **[sec pentesting toolkit, by go outside labs](https://github.com/go-outside-labs/sec-pentesting-toolkit)**
+- **[quantum computing, by go outside labs](https://github.com/go-outside-labs/quantum-computing-toolkit)**
+- **[quantitative finance toolkit, by go outside labs](https://github.com/go-outside-labs/quantitative-finance-toolkit)**
+- **[shell-toolkit, by go outside labs](https://github.com/go-outside-labs/shell-toolkit)**
+- **[nomad toolkit, by go outside labs](https://github.com/go-outside-labs/nomad-toolkit)**
+- **[blockchain auditing, by go outside labs](https://github.com/go-outside-labs/blockchains-auditing)**
+- **[decentralized research, by go outside labs](https://github.com/go-outside-labs/decentralized-protocols-research)**
+- **[the game of $choices, by midsumm3r dao](https://www.midsumm3r.xyz/)**
+- **[nft toolkit, by go outside labs](https://github.com/go-outside-labs/nfts-toolkit)**
+- **[tokenomics and daos, by go outside labs](https://github.com/go-outside-labs/tokenomics-and-daos)**
+- **[advanced optimization for physics, by go outside labs](https://github.com/go-outside-labs/adv-optimization-physics-py)**
+- **[ml complex networks, by go outside labs](https://github.com/go-outside-labs/ml-complex-networks)**
+- **[exolife, by go outside labs](https://github.com/go-outside-labs/exolife)**
+- **contributing: just submit a sensible pull request**
