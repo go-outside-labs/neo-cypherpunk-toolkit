@@ -8,7 +8,7 @@
 
 ----
 
-### canonical readings 
+### 🪐 canonical readings 
 
 
 <br>
@@ -18,7 +18,7 @@
 
 ---
 
-### wikis && magazines
+### 🪐 wikis && magazines
 
 <br>
 
@@ -31,7 +31,7 @@
 
 ---
 
-### monero
+### 🪐 monero
 
 <br>
 
@@ -41,7 +41,7 @@
 
 ----
 
-### autism
+### 🪐 autism
 
 
 <br>
@@ -50,7 +50,7 @@
 
 <br>
 
-### brain plasticity 
+### 🪐 brain plasticity 
 
 <br>
 
@@ -61,7 +61,7 @@
 ----
 
 
-### stoicism
+### 🪐 stoicism
 
 <br>
 
@@ -69,7 +69,7 @@
 
 ----
 
-### protopia 
+### 🪐protopia 
 
 
 <br>
@@ -82,7 +82,7 @@
 
 <br>
 
-### anarchy 
+### 🪐 anarchy 
 
 <br>
 
