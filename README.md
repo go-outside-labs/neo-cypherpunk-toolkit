@@ -29,6 +29,7 @@
 
 * **[[1994] cyberspace, crypto anarchy, pushing limits, by t. may](https://nakamotoinstitute.org/cyberspace-crypto-anarchy-and-pushing-limits/)**
 * **[[1996] a declaration of the independence of cyberspace, by j.p. barlow](https://nakamotoinstitute.org/cyberspace-independence/)**
+* **[[1997] the idea of smart contracts, by nick szabo](https://nakamotoinstitute.org/the-idea-of-smart-contracts/)**
 * **[[1998] b-money, by wei dai](http://www.weidai.com/bmoney.txt)**
 * **[[1999] why i wrote PGP, by p. zimmermann](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)**
 * **[[1999] design of a secure timestamping service with minimal trust, by jj quisquater et al](https://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf)**
