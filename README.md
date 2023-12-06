@@ -86,7 +86,7 @@
 
 <br>
 
-### 🔗🏴 [𝚊𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚛𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚜 𝚏𝚘𝚛 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔𝚜 [knowledge]](cypherlinks.md)
+### 🔗🏴 [𝚊𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚛𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚜 𝚏𝚘𝚛 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔𝚜 [tools]](cypherlinks.md)
 
 ###### (do the work; wrap your anxiety in a plastic bubble and leave it there)
 ###### (don't trust github, or gitlab, or netflix, or apple, or "crypto influencers", or whoever does not write good code, or whoever does not respect meritocracy, or whatever 🖤elon musk🖤 says, or wars, or cnn, or trump-people, or protests, or laws, or science, or art, or anything outside your own intuition, or anything that could imply your brain acting under duality)
