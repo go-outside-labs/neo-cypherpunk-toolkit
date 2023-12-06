@@ -10,7 +10,10 @@
 
 <br>
 
-* **[secrecy, authentication, and public key systems, by raph c. merkle](https://nakamotoinstitute.org/static/docs/secrecy-authentication-and-public-key-systems.pdf)**
+* **[[1976] new directions in cryptography, by diffie && hellman](https://www-ee.stanford.edu/~hellman/publications/24.pdf)**
+* **[[1978] a nethod for obtaining digital signature, by l.m. adleman et al](https://dl.acm.org/doi/10.1145/359340.359342)**
+* **[[1979] secrecy, authentication, and public key systems, by raph c. merkle](https://nakamotoinstitute.org/static/docs/secrecy-authentication-and-public-key-systems.pdf)**
+* **[[2000] contracts in cyberspace, by d. friedman](http://www.daviddfriedman.com/Academic/contracts_in_%20cyberspace/contracts_in_cyberspace.htm)**
 
 <br>
 
