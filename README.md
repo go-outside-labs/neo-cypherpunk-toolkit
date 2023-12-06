@@ -27,6 +27,8 @@
 
 
 
+* **[[1988] the crypto anarchist manifesto. by t.c. may](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)**
+* **[[1993] a cypherunk's manifesto, by e. hughes](https://activism.net/cypherpunk/manifesto.html)**
 * **[[1994] cyberspace, crypto anarchy, pushing limits, by t. may](https://nakamotoinstitute.org/cyberspace-crypto-anarchy-and-pushing-limits/)**
 * **[[1996] a declaration of the independence of cyberspace, by j.p. barlow](https://nakamotoinstitute.org/cyberspace-independence/)**
 * **[[1997] the idea of smart contracts, by nick szabo](https://nakamotoinstitute.org/the-idea-of-smart-contracts/)**
@@ -35,7 +37,7 @@
 * **[[1999] design of a secure timestamping service with minimal trust, by jj quisquater et al](https://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf)**
 * **[[2005] the case for privacy, by d. friedman](https://nakamotoinstitute.org/the-case-for-privacy/)**
 * **[[2008] bitcoin: a peer-to-peer electronic cash system, by s. nakamoto](https://nakamotoinstitute.org/static/docs/bitcoin.pdf)**
-
+* **[[2007] the meaning of decentralization, by v. buterin](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)**
 
 <br>
 
