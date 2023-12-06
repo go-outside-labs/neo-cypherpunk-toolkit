@@ -25,10 +25,15 @@
 ### 🏴 𝟶𝟶𝟶𝟶𝟶 
 ###### (this is where The Fool starts)
 
-* **[a declaration of the independence of cyberspace, by j.p. barlow](https://nakamotoinstitute.org/cyberspace-independence/)**
-* **[cyberspace, crypto anarchy, pushing limits, by t. may](https://nakamotoinstitute.org/cyberspace-crypto-anarchy-and-pushing-limits/)**
-* **[the case for privacy, by d. friedman](https://nakamotoinstitute.org/the-case-for-privacy/)**
-* **[why i wrote PGP, by p. zimmermann](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)**
+
+
+* **[[1994] cyberspace, crypto anarchy, pushing limits, by t. may](https://nakamotoinstitute.org/cyberspace-crypto-anarchy-and-pushing-limits/)**
+* **[[1996] a declaration of the independence of cyberspace, by j.p. barlow](https://nakamotoinstitute.org/cyberspace-independence/)**
+* **[[1998] b-money, by wei dai](http://www.weidai.com/bmoney.txt)**
+* **[[1999] why i wrote PGP, by p. zimmermann](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)**
+* **[[1999] design of a secure timestamping service with minimal trust, by jj quisquater et al](https://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf)**
+* **[[2005] the case for privacy, by d. friedman](https://nakamotoinstitute.org/the-case-for-privacy/)**
+* **[[2008] bitcoin: a peer-to-peer electronic cash system, by s. nakamoto](https://nakamotoinstitute.org/static/docs/bitcoin.pdf)**
 
 
 <br>
@@ -48,7 +53,7 @@
 
 <br>
 
-### 🔗[🏴 cryptocurrencies [knowledge]](cyphermoney.md)
+### 🔗[🏴 𝚌𝚛𝚢𝚙𝚝𝚘𝚌𝚞𝚛𝚛𝚎𝚗𝚌𝚒𝚎𝚜 [knowledge]](cyphermoney.md)
 
 ###### (we are not going anywhere, deal with it - and then join us, we have cookies)
 
@@ -58,7 +63,7 @@
 
 <br>
 
-### 🔗🏴 [cypherpunk living [knowledge]](cypherlife.md)
+### 🔗🏴 [𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔 𝚕𝚒𝚟𝚒𝚗𝚐 [knowledge]](cypherlife.md)
 
 ###### (wikis and resources on being a cypherpunk - coder-outcast-autist - including nomadism, brain plasticity, stoicism, anarchy, protopia, etc.)
 
@@ -68,7 +73,7 @@
 
 <br>
 
-### 🔗[🏴 cypherpunks [people]](cypherpunks.md)
+### 🔗[🏴 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔𝚜 [people]](cypherpunks.md)
 
 ###### (a list of heroes, independent of how the commoner's history was written)
 
@@ -78,7 +83,7 @@
 
 <br>
 
-### 🔗🏴 [advanced resources for cypherpunks [knowledge]](cypherlinks.md)
+### 🔗🏴 [𝚊𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚛𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚜 𝚏𝚘𝚛 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔𝚜 [knowledge]](cypherlinks.md)
 
 ###### (do the work; wrap your anxiety in a plastic bubble and leave it there)
 ###### (don't trust github, or gitlab, or netflix, or apple, or "crypto influencers", or whoever does not write good code, or whoever does not respect meritocracy, or whatever 🖤elon musk🖤 says, or wars, or cnn, or trump-people, or protests, or laws, or science, or art, or anything outside your own intuition, or anything that could imply your brain acting under duality)
