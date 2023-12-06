@@ -44,6 +44,7 @@
 * **vinay gupta**
 * **wei dai**
 * **dahlia malkhi**
+* **jameson**
 * **vitalik**
 * **horsefacts**
 * **nathan**
@@ -93,21 +94,27 @@
 * **[@pingpongsneak](https://github.com/pingpongsneak)**
 * **[@jcvernaleo](https://github.com/jcvernaleo)**
 * **[@Neo121212](https://github.com/Neo121212)**
+* **[@M66B](https://github.com/M66B)**
+* **[@luke-jr](https://github.com/luke-jr)**
 * **[@rizzling](https://github.com/rizzling)**
 * **[@bitnym](https://github.com/bitnym)**
 * **[@CypherpunkSamurai](https://github.com/CypherpunkSamurai)**
 * **[@Dontreadme-md](https://github.com/Dontreadme-md)**
+* **[@KayBeSee](https://github.com/KayBeSee)**
 * **[@pushmyhash](https://github.com/pushmyhash)**
 * **[@Mubelotix](https://github.com/Mubelotix)**
 * **[@cyphersats](https://github.com/cyphersats)**
 * **[@DanRaine](https://github.com/DanRaine)**
 * **[@brandosari](https://github.com/brandosari)**
+* **[@thestinger](https://github.com/thestinger)**
 * **[@nemoanderson](https://github.com/nemoanderson)**
 * **[@paulcolombo](https://github.com/paulcolombo)**
 * **[@Satoshi0x](https://github.com/Satoshi0x)**
 * **[@Cypher-Znnb](https://github.com/Cypher-Znnb)**
+* **[@amichae2](https://github.com/amichae2)**
 * **[@wwwgust](https://github.com/wwwgust)**
 * **[@thi4go](https://github.com/thi4go)**
+* **[@CryptoPartySrbija](https://github.com/CryptoPartySrbija)**
 * **[@davecgh](https://github.com/davecgh)**
 * **[@Cypherpunk1337](https://github.com/Cypherpunk1337)**
 * **[@dajohi](https://github.com/dajohi)**
@@ -205,7 +212,7 @@
 * **[@PhoenixGreen](https://github.com/PhoenixGreen)**
 * **[@Castlenine](https://github.com/Castlenine)**
 * **[@nullmask](https://github.com/nullmask)**
-* **[MSchere](https://github.com/MSchere)**
+* **[@MSchere](https://github.com/MSchere)**
 * **[@del-distributed](https://github.com/del-distributed)**
 * **[@Dr3b1n](https://github.com/Dr3b1n)**
 * **[@PrivOci](https://github.com/PrivOci)**
@@ -213,7 +220,7 @@
 * **[@daopunk](https://github.com/daopunk)**
 * **[@JJ-Rogers](https://github.com/JJ-Rogers)**
 * **[@FrancesCoronel](https://github.com/FrancesCoronel)**
-* **[DJopek](https://github.com/DJopek)**
+* **[@DJopek](https://github.com/DJopek)**
 * **[@brennx0r](https://github.com/brennx0r)**
 * **[@Cyrivs89](https://github.com/Cyrivs89)**
 * **[@swagt0shi](https://github.com/swagt0shi)**
@@ -221,9 +228,13 @@
 * **[@bearloga](https://github.com/bearloga)**
 * **[@microchad](https://github.com/microchad)**
 * **[@JohnELester](https://github.com/JohnELester)**
+* **[@CypherPunk2071](https://github.com/CypherPunk2071)**
 * **[@bitfr0g](https://github.com/bitfr0g)**
+* **[@webdevdery](https://github.com/webdevdery)**
+* **[@FuckFiat](https://github.com/FuckFiat)**
 * **[@Eumaios1212](https://github.com/Eumaios1212)**
 * **[@jcyph3r](https://github.com/jcyph3r)**
+* **[@LIYANG-UST](https://github.com/LIYANG-UST)**
 * **[@evanmcfarland](https://github.com/evanmcfarland)**
 * **[@cypherpunk-radio](https://github.com/CypherPunk-Radio)**
 * **[@bermannoah](https://github.com/bermannoah)**
@@ -240,14 +251,22 @@
 * **[@snarkfet](https://github.com/snarkfet)**
 * **[@lexi933](https://github.com/lexi933)**
 * **[@jrick](https://github.com/jrick)**
+* **[@cypherhoodlum](https://github.com/cypherhoodlum)**
 * **[@Sk0g3n](https://github.com/Sk0g3n)**
 * **[@jzbz](https://github.com/jzbz)**
+* **[@reubencww](https://github.com/reubencww)**
 * **[@cumsoft](https://github.com/cumsoft)**
 * **[@0xidm](https://github.com/0xidm)**
+* **[@LeFreq](https://github.com/LeFreq)**
+* **[@sleutho](https://github.com/sleutho)**
+* **[@strec007](https://github.com/strec007)**
+* **[@cobyism](https://github.com/cobyism)**
+* **[@stefanclaas](https://github.com/stefanclaas)**
 * **[@wu-changxing](https://github.com/wu-changxing)**
 * **[@rzayas](https://github.com/rzayas)**
 * **[@CAnorbo](https://github.com/CAnorbo)**
 * **[@multiversecoder](https://github.com/multiversecoder)**
+* **[@blockchain45](https://github.com/blockchain45)**
 * **[@jdanielricher](https://github.com/jdanielricher)**
 * **[@dianazryn](https://github.com/dianazryn)**
 * **[@milochen0418](https://github.com/milochen0418)**
@@ -263,15 +282,48 @@
 * **[@MrDonhimself](https://github.com/MrDonhimself)**
 * **[@DonMartin3z](https://github.com/DonMartin3z)**
 * **[@MrBlueBird2](https://github.com/MrBlueBird2)**
+* **[@diekmrcoin](https://github.com/diekmrcoin)**
 * **[@DanielProg39](https://github.com/DanielProg39)**
 * **[@CypherBOLD](https://github.com/CypherBOLD)**
+* **[@evalevanto](https://github.com/evalevanto)**
+* **[@CyberAstronaut101](https://github.com/CyberAstronaut101)**
+* **[@sevenbitbyte](https://github.com/sevenbitbyte)**
+* **[@U039b](https://github.com/U039b)**
+* **[@andrealeone](https://github.com/andrealeone)**
+* **[@CarloGauss33](https://github.com/CarloGauss33)**
+* **[@matthewaveryusa](https://github.com/matthewaveryusa)**
+* **[@lucxsapollo](https://github.com/lucxsapollo)**
 * **[@gabridome](https://github.com/gabridome)**
+* **[@kingflurkel](https://github.com/kingflurkel)**
+* **[@speedmax](https://github.com/speedmax)**
 * **[@cameus](https://github.com/cameus)**
+* **[@satoshinotdead](https://github.com/satoshinotdead)**
+* **[@adamcypher](https://github.com/adamcypher)**
+* **[@merkle-groot)](https://github.com/merkle-groot)**
 * **[@Piamias-Victor](https://github.com/Piamias-Victor)**
+* **[@fernandolobato](https://github.com/fernandolobato)**
+* **[@vab](https://github.com/vab)**
+* **[@Phuker](https://github.com/Phuker)**
+* **[@tinkersec](https://github.com/tinkersec)**
+* **[Chaoming-L](https://github.com/Chaoming-L)**
 * **[@owenblacker](https://github.com/owenblacker)**
+* **[@hazae41](https://github.com/hazae41)**
 * **[@ascott](https://github.com/ascott)**
 * **[@Xk9eboF6](https://github.com/Xk9eboF6)**
+* **[@Kediel](https://github.com/Kediel)**
+* **[@victorabarros](https://github.com/victorabarros)**
+* **[@stevenroose](https://github.com/stevenroose)**
 * **[@ShawnToubeau](https://github.com/ShawnToubeau)**
+* **[@matiasbn](https://github.com/matiasbn)**
+* **[@BruceFenton](https://github.com/BruceFenton)**
+* **[@omidforoqi](https://github.com/omidforoqi)**
+* **[@lourkeur](https://github.com/lourkeur)**
+* **[@lucayepa](https://github.com/lucayepa)**
+* **[@conduition](https://github.com/conduition)**
+* **[@DreamingRaven](https://github.com/DreamingRaven)**
+* **[@Scaramovistk](https://github.com/Scaramovistk)**
+* **[@jooray](https://github.com/jooray)**
+* **[@Cypherpunkz1](https://github.com/Cypherpunkz1)**
 * **[@cypherpunkz](https://github.com/cypherpunkz)**
 * **[@cypherpunk33](https://github.com/cypherpunk33)**
 * **[@cypherpunkfairy](https://github.com/cypherpunkfairy)**
@@ -280,35 +332,89 @@
 * **[@brianp](https://github.com/brianp)**
 * **[@monperrus](https://github.com/monperrus)**
 * **[@rjmalagon](https://github.com/rjmalagon)**
+* **[@MaxLaumeister](https://github.com/MaxLaumeister)**
 * **[@JackR7](https://github.com/JackR7)**
 * **[@saintmaxi](https://github.com/saintmaxi)**
 * **[@ullamonster](https://github.com/ullamonster)**
 * **[@cypherpunkx](https://github.com/cypherpunkx)**
 * **[@cyperpunker](https://github.com/cyperpunker)**
+* **[@cypherpunk](https://github.com/cypherpunk)**
+* **[@kurtpan666](https://github.com/kurtpan666)**
 * **[@17ai](https://github.com/17ai)**
+* **[@bytemaster](https://github.com/bytemaster)**
+* **[@gcamerli](https://github.com/gcamerli)**
+* **[8ball030](https://github.com/8ball030)**
 * **[@Qix-](https://github.com/Qix-)**
+* **[@lispfunktor](https://github.com/lispfunktor)**
+* **[@ch1n3du](https://github.com/ch1n3du)**
+* **[@jlopp](https://github.com/jlopp)**
 * **[@JamesCarnley](https://github.com/JamesCarnley)**
+* **[@Kaleb47](https://github.com/Kaleb47)**
 * **[@hrinka](https://github.com/hrinka)**
+* **[@zmitton](https://github.com/zmitton)**
+* **[@joshuajbouw](https://github.com/joshuajbouw)**
+* **[@Demian101](https://github.com/Demian101)**
+* **[@lcuen](https://github.com/lcuen)**
+* **[@0xb100d](https://github.com/0xb100d)**
+* **[@Z33DD](https://github.com/Z33DD)**
 * **[@mgregoro](https://github.com/mgregoro)**
+* **[@ryan-foo](https://github.com/ryan-foo)**
 * **[@pchickey](https://github.com/pchickey)**
 * **[@VinumAugustus](https://github.com/VinumAugustus)**
 * **[@luckygreen](https://github.com/luckygreen)**
+* **[@casey](https://github.com/casey)**
 * **[@frankbraun](https://github.com/frankbraun)**
+* **[@tim54000](https://github.com/tim54000)**
 * **[@higedamc](https://github.com/higedamc)**
+* **[@fabacab](https://github.com/fabacab)**
 * **[@lucasallan](https://github.com/lucasallan)**
 * **[@evgenykuzyakov](https://github.com/evgenykuzyakov)**
 * **[@mux23](https://github.com/mux23)**
 * **[@0xSpuddy](https://github.com/0xSpuddy)**
 * **[@darkk](https://github.com/darkk)**
+* **[@cypherpunkli](https://github.com/cypherpunkli)**
 * **[@cedricloneux](https://github.com/cedricloneux)**
+* **[@CypherpunkDev](https://github.com/CypherpunkDev)**
+* **[@cypherpunk1984](https://github.com/cypherpunk1984)**
+* **[@drgoodnight](https://github.com/drgoodnight)**
+* **[@cypherpunk369](https://github.com/cypherpunk369)**
+* **[@cypherpunkmedia](https://github.com/cypherpunkmedia)**
+* **[@shesek](https://github.com/shesek)**
+* **[@Sgiath](https://github.com/Sgiath)**
+* **[@aesedepece](https://github.com/aesedepece)**
+* **[@CypherPunk2071](https://github.com/CypherPunk2071)**
+* **[@Psifour](https://github.com/Psifour)**
+* **[@snx90](https://github.com/snx90)**
+* **[Nuropunk](https://github.com/Nuropunk)**
+* **[@weedcoder](https://github.com/weedcoder)**
+* **[@NeoCypherpunk](https://github.com/NeoCypherpunk)**
+* **[@elsirion](https://github.com/elsirion)**
+* **[@donosonaumczuk](https://github.com/donosonaumczuk)**
+* **[@giulianoassaggio](https://github.com/giulianoassaggio)**
 * **[@jeremy-rutman](https://github.com/jeremy-rutman)**
+* **[@sponnusa](https://github.com/sponnusa)**
+* **[@rockstardev](https://github.com/rockstardev)**
+* **[@kiok46](https://github.com/kiok46)**
+* **[@dahlia](https://github.com/dahlia)**
+* **[@stephancill](https://github.com/stephancill)**
+* **[@dckc](https://github.com/dckc)**
+* **[@nicbus](https://github.com/nicbus)**
+* **[@dr-orlovsky](https://github.com/dr-orlovsky)**
+* **[@0xferit](https://github.com/0xferit)**
 * **[@henrycg](https://github.com/henrycg)**
+* **[@d3c0d3d](https://github.com/d3c0d3d)**
+* **[@prydt](https://github.com/prydt)**
+* **[@aaronky](https://github.com/aaronky)**
+* **[@bitsalv](https://github.com/bitsalv)**
 * **[@lidymonteiro](https://github.com/lidymonteiro)**
 * **[@mischief](https://github.com/mischief)**
 * **[@yewscion](https://github.com/yewscion)**
+* **[@peartobear](https://github.com/peartobear)**
 * **[@berkingurcan](https://github.com/berkingurcan)**
+* **[@thamudi](https://github.com/thamudi)**
 * **[@rahra](https://github.com/rahra)**
 * **[@kumrzz](https://github.com/kumrzz)**
+* **[@JWWeatherman](https://github.com/JWWeatherman)**
 
 
 
@@ -339,9 +445,11 @@
 * **[bitcoin in go](https://github.com/btcsuite)**
 * **[decred](https://github.com/decred)**
 * **[SkidsDAO](https://github.com/SkidsDAO)**
+* **[imperviousinc](https://github.com/imperviousinc)**
 * **[scriptzteam](https://github.com/scriptzteam)**
 * **[cypherpunk days](https://github.com/liesware/cypherpunksdays)**
 * **[cucfablab](https://github.com/cucfablab)**
+* **[ircypherpunks](https://github.com/ircypherpunks)**
 * **[cypherpunk-holdings](https://github.com/cypherpunk-holdings)**
 * **[cypherpunk-br](https://github.com/CypherpunkBR)**
 * **[cypherpunk-labs](https://github.com/Cypherpunk-Labs)**
@@ -355,15 +463,35 @@
 * **[unlicense](https://github.com/unlicense)**
 * **[tons](https://github.com/ton-blockchain)**
 * **[the tor project](https://github.com/TheTorProject)**
+* **[ftessari](https://github.com/ftessari)**
 * **[cypherpunk-academy](https://github.com/cypherpunk-academy)**
 * **[cypherpunk labs](https://github.com/CypherpunkLabs)**
 * **[cypherpunk engineering](https://github.com/cypherpunkengineering)**
 * **[ctfs](https://github.com/ctfs)**
+* **[AreaLayer](https://github.com/AreaLayer)**
+* **[cpunkswritecode](https://github.com/cpunkswritecode)**
 * **[cypherpunks vancouver](https://github.com/cypherpunksvancouver)**
 * **[bitcoin dev network](https://github.com/BitcoinDeveloperNetwork)**
+* **[cyphernet-dao](https://github.com/cyphernet-dao)**
+* **[CypherpunkArmory](https://github.com/CypherpunkArmory)**
+* **[vegaprotocol](https://github.com/vegaprotocol)**
 * **[citadel](https://github.com/runcitadel)**
+* **[cryptomator](https://github.com/cryptomator)**
 * **[cypherpunks br](https://github.com/cypherpunksbr)**
+* **[JaquerEspeis](https://github.com/JaquerEspeis)**
+* **[BlockchainCommons](https://github.com/BlockchainCommons)**
+* **[life-itself](https://github.com/life-itself)**
+* **[cypher-network)](https://github.com/cypher-network)**
+* **[Lily-Technologies](https://github.com/Lily-Technologies)**
+* **[cypher punk](https://github.com/CypherPunk-git)**
+* **[h4ckbs](https://github.com/h4ckbs)**
+* **[fedimint](https://github.com/fedimint)**
+* **[FileNation](https://github.com/FileNation)**
+* **[bitcoinfo](https://github.com/bitcoinfo)**
+* **[Narwallets](https://github.com/Narwallets)**
+* **[true nodes](https://github.com/True-Mining)**
 * **[eggrepo](https://github.com/eggrepo)**
+* **[zkp-co-learning](https://github.com/zkp-co-learning)**
 * **[starlinglab](https://github.com/starlinglab)**
 * **[join matrix](https://github.com/austinhuang0131/joinmatrix)**
 * **[burner wallet](https://github.com/austintgriffith/burner-wallet)**
