@@ -3,7 +3,7 @@
 <br>
 <br>
 
-## 💎🏴 101 
+## 💎🏴 00000 
 ###### (this is where The Fool starts)
 
 * **[a declaration of the independence of cyberspace, by j.p. barlow](https://nakamotoinstitute.org/cyberspace-independence/)**
@@ -62,7 +62,7 @@
 ## 🖤🏴 [advanced resources for cypherpunks [knowledge]](cypherlinks.md)
 
 ###### (do the work; wrap your anxiety in a plastic bubble and leave it there)
-###### (don't trust github, or gitlab, or netflix, or apple, or "crypto influencers", or whoever who does not write good code, or whoever who does not respect meritocracy, or whatever 🖤elon musk🖤 says, or wars, or cnn, or trump-people, or protests, or laws, or science, or art, or anything outside your own intuition, or anything that could imply your brain acting under duality)
+###### (don't trust github, or gitlab, or netflix, or apple, or "crypto influencers", or whoever does not write good code, or whoever who does not respect meritocracy, or whatever 🖤elon musk🖤 says, or wars, or cnn, or trump-people, or protests, or laws, or science, or art, or anything outside your own intuition, or anything that could imply your brain acting under duality)
 
 <br>
 
