@@ -7,6 +7,20 @@
 
 <br>
 
+----
+
+
+### 🖤 canonical readings
+
+<br>
+
+* **[how to timestamp a digital document, by s. harber et al](http://www.staroceans.org/e-book/Haber_Stornetta.pdf)**
+
+<br>
+
+---
+
+
 ### 🖤 things i wrote during my journey
 
 <br>
