@@ -1,4 +1,4 @@
-# 𝚗𝚎𝚘-𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔 𝚝𝚘𝚘𝚕𝚔𝚒𝚝
+# 𝚝𝚑𝚎 𝚗𝚎𝚘-𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔 𝚝𝚘𝚘𝚕𝚔𝚒𝚝
 
 <br>
 
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="https://github.com/go-outside-labs/neo-cypherpunk-toolkit/assets/138340846/9510f9ad-a8fc-4db7-8be2-16040adfa02a" width="60%" align="center" style="padding:1px;border:1px solid black;" />
+<img src="https://github.com/go-outside-labs/neo-cypherpunk-toolkit/assets/138340846/9510f9ad-a8fc-4db7-8be2-16040adfa02a" width="60%" align="center" style="padding:1px;border:1px solid black;" title="image by bt3gl" />
 </p>
 
 <p align="center">
