@@ -13,6 +13,12 @@
 
 <br>
 
+* **[[1994] the cyphernomicon, t.c. may](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt)**
+* **[[1997] formalizing and securing relationships on public networks, nick szabo](https://nakamotoinstitute.org/formalizing-securing-relationships/)**
+* **[[2001] trusted third parties are security holes, nick Sszabo](https://nakamotoinstitute.org/trusted-third-parties/)**
+* **[[2005] from imperial china to cyberspace, by d. friedman](http://www.daviddfriedman.com/Academic/Course_Pages/analytical_methods_08/china_to_cyberspace.htm)**
+* **[[2023] exploring the potential for life in the internet and blockchain, by cia officer](https://officercia.mirror.xyz/hsKGwmqe2-B5xR1V-qydYwgLwGLuMliUsudxQ6yXiiE)**
+* **[[2023] the internet as religion, by d. phelps](https://davidphelps.substack.com/p/the-internet-as-religion)**
 
 <br>
 
@@ -43,6 +49,8 @@
 
 ### 🪐 autism
 
+<br>
+
 
 <br>
 
@@ -64,6 +72,7 @@
 ### 🪐 stoicism
 
 <br>
+
 
 <br>
 
