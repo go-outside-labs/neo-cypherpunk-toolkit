@@ -25,25 +25,44 @@
 
 <br>
 
+* **aaron swartz**
 * **satoshi nakamoto**
+* **moxie marlinspike**
 * **adam back**
-* **david d. driedman**
+* **david d. friedman**
 * **eric hughes**
-* **gregory maxwell**
+* **daniel ellsberg**
 * **hal finney**
 * **ian grigg**
 * **jim bell**
 * **john gilmore**
 * **john perry barlow**
 * **julian assange**
+* **david lee chaum**
+* **jacob appelbaum**
+* **david d. friedman**
+* **gavin andresen**
+* **chelsea manning**
+* **matt corallo**
+* **ralph c. merkle**
+* **ross ulbricht**
+* **clifford c. cocks**
+* **jeff garzik**
+* **martin hellman**
+* **edward snowden**
+* **charlie shrem**
 * **nick szabo**
 * **paul calder le roux**
+* **amir taaki**
 * **phil zimmermann**
 * **pieter wuille**
 * **timothy c. may**
+* **andreas antonopoulos**
 * **vinay gupta**
 * **wei dai**
 * **dahlia malkhi**
+* **bram cohen**
+* **gregory maxwell**
 * **jameson**
 * **vitalik**
 * **horsefacts**
