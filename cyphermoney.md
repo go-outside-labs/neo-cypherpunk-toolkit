@@ -12,6 +12,7 @@
 * **[[1982] computer systems by mutually suspicious-groups, by david chaum](https://nakamotoinstitute.org/static/docs/computer-systems-by-mutually-suspicious-groups.pdf)**
 * **[[1988] the dining cryptographers problem, by d. chaum](http://7fa6xlti5joarlmkuhjaifa47ukgcwz6tfndgax45ocyn4rixm632jid.onion/anonbib/cache/chaum-dc.pdf)**
 * **[[1988] untraceable electronic mail, return addresses, and digital pseudonyms, by d. chaum](https://nakamotoinstitute.org/static/docs/untraceable-electronic-mail.pdf)**
+* **[[1991] how to timestamp a digital document, by s. harber et al](http://www.staroceans.org/e-book/Haber_Stornetta.pdf)**
 * **[[1994] for-pay remailers, by hal finney](https://nakamotoinstitute.org/for-pay-remailers/)**
 * **[[1994] politics vs. technology, by hal finney](https://nakamotoinstitute.org/politics-vs-technology/)**
 * **[[1995]smart contradts glossary, by nick szabo](https://web.archive.org/web/20160417212209/http://szabo.best.vwh.net/smart_contracts_glossary.html)**
