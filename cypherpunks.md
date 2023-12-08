@@ -10,12 +10,13 @@
 <br>
 
 * **[electronic frontier foundation](https://www.eff.org/)**
+* **[the american cryptogram association](https://www.cryptogram.org/)**
+* **[historical sources && articles, by cryptoanarchy.wiki](https://cryptoanarchy.wiki/sources/historical-sources-and-media-articles)**
 * **[soberanos](https://soberanos.org/)**
 * **[bitcointalk](https://bitcointalk.org/)**
 * **[cypherpunk lab](https://github.com/cypherpunklab/manifesto)**
 * **[nakamoto institute](https://nakamotoinstitute.org/)**
-* **[the american cryptogram association](https://www.cryptogram.org/)**
-* **[historical sources && articles, by cryptoanarchy.wiki](https://cryptoanarchy.wiki/sources/historical-sources-and-media-articles)**
+
 
 
 <br>
@@ -24,7 +25,7 @@
 
 <br>
 
-### 🤖 444 heroes 
+### 🤖 4444 heroes 
 
 <br>
 
@@ -66,10 +67,12 @@
 * **dahlia malkhi**
 * **bram cohen**
 * **gregory maxwell**
+* **albiona**
 * **jameson**
 * **vitalik**
 * **horsefacts**
 * **nathan**
+* **thomas**
 * **austin**
 * **stephane**
 * **alex**
@@ -91,6 +94,8 @@
 
 <br>
 
+
+* **[@AlbionaHoti](https://github.com/AlbionaHoti)**
 * **[@tombusby](https://github.com/tombusby)**
 * **[@kiyokocrypto](https://github.com/kiyokocrypto)**
 * **[@owocki](https://github.com/owocki)**
@@ -437,7 +442,8 @@
 * **[@rahra](https://github.com/rahra)**
 * **[@kumrzz](https://github.com/kumrzz)**
 * **[@JWWeatherman](https://github.com/JWWeatherman)**
-
+* **[go outside labs' followers](https://github.com/orgs/go-outside-labs/followers)**
+* **[bt3gl's followers](https://github.com/bt3gl)**
 
 
 <br>
