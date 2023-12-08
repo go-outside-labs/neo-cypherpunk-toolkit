@@ -26,7 +26,7 @@
 ###### (this is where The Fool starts)
 
 
-
+* **[[1974] the dispossessed, by ursula k. le guin](https://en.wikipedia.org/wiki/The_Dispossessed)**
 * **[[1988] the crypto anarchist manifesto. by t.c. may](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)**
 * **[[1993] a cypherunk's manifesto, by e. hughes](https://activism.net/cypherpunk/manifesto.html)**
 * **[[1994] cyberspace, crypto anarchy, pushing limits, by t. may](https://nakamotoinstitute.org/cyberspace-crypto-anarchy-and-pushing-limits/)**
