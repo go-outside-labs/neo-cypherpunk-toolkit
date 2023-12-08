@@ -9,6 +9,15 @@
 
 ---
 
+### 🖤 cypherpunks write code
+
+<br>
+
+- **[jameson lopp' bitcoin resources](https://www.lopp.net/bitcoin-information.html)**
+
+<br>
+
+----
 
 ### 🖤 things i wrote during my journey
 
