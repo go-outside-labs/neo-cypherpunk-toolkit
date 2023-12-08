@@ -9,10 +9,13 @@
 
 <br>
 
+* **[electronic frontier foundation](https://www.eff.org/)**
+* **[soberanos](https://soberanos.org/)**
+* **[bitcointalk](https://bitcointalk.org/)**
 * **[cypherpunk lab](https://github.com/cypherpunklab/manifesto)**
 * **[nakamoto institute](https://nakamotoinstitute.org/)**
-* **[soberanos](https://soberanos.org/)**
 * **[the american cryptogram association](https://www.cryptogram.org/)**
+* **[historical sources && articles, by cryptoanarchy.wiki](https://cryptoanarchy.wiki/sources/historical-sources-and-media-articles)**
 
 
 <br>
