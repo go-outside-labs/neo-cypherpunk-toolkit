@@ -8,10 +8,12 @@
 
 <br>
 
-* **[[1982] blind signatures for untraceable payments, by d chaum](https://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF)**
+* **[[1982] blind signatures for untraceable payments, by d. chaum](https://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF)**
 * **[[1982] computer systems by mutually suspicious-groups, by david chaum](https://nakamotoinstitute.org/static/docs/computer-systems-by-mutually-suspicious-groups.pdf)**
 * **[[1988] the dining cryptographers problem, by d. chaum](http://7fa6xlti5joarlmkuhjaifa47ukgcwz6tfndgax45ocyn4rixm632jid.onion/anonbib/cache/chaum-dc.pdf)**
 * **[[1988] untraceable electronic mail, return addresses, and digital pseudonyms, by d. chaum](https://nakamotoinstitute.org/static/docs/untraceable-electronic-mail.pdf)**
+* **[[1989] online cash checks, by d. chaum](https://nakamotoinstitute.org/online-cash-checks/)**
+* **[[1990] implementing fault-tolerant services using the state machine approach, by f.b. schneider](https://nakamotoinstitute.org/static/docs/implementing-fault-tolerant-services.pdf)**
 * **[[1991] how to timestamp a digital document, by s. harber et al](http://www.staroceans.org/e-book/Haber_Stornetta.pdf)**
 * **[[1994] for-pay remailers, by hal finney](https://nakamotoinstitute.org/for-pay-remailers/)**
 * **[[1994] politics vs. technology, by hal finney](https://nakamotoinstitute.org/politics-vs-technology/)**
