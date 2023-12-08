@@ -38,6 +38,7 @@
 * **[[2005] the case for privacy, by d. friedman](https://nakamotoinstitute.org/the-case-for-privacy/)**
 * **[[2008] bitcoin: a peer-to-peer electronic cash system, by s. nakamoto](https://nakamotoinstitute.org/static/docs/bitcoin.pdf)**
 * **[[2007] the meaning of decentralization, by v. buterin](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)**
+* **[[2010] decentralization in curitiba’s public schools, by s. della torre](https://acervodigital.ufpr.br/handle/1884/24232)**
 
 <br>
 
