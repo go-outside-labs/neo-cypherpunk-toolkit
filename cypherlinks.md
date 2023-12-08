@@ -14,6 +14,7 @@
 <br>
 
 - **[jameson lopp' bitcoin resources](https://www.lopp.net/bitcoin-information.html)**
+- **[awesome blockchain papers](https://github.com/decrypto-org/blockchain-papers)**
 
 <br>
 
