@@ -35,9 +35,21 @@
 
 <br>
 
----
+----
 
-### 🪐 monero
+### 🪐 lifestyle
+
+<br>
+
+##### nomadism
+
+<br>
+
+* **[a perfect neo-cypherpunk nomad setup [2023], by bt3gl](https://mirror.xyz/bt3gl.eth/hPeVk5xPB7MN9-V0hbL088m2daTkdsPeg3I25hbYBog)**
+
+<br>
+
+##### monero
 
 <br>
 
@@ -45,19 +57,13 @@
 
 <br>
 
-----
 
-### 🪐 autism
-
-<br>
-
+##### autism
 
 <br>
 
-----
 
-
-### 🪐 brain plasticity 
+##### brain plasticity 
 
 <br>
 
@@ -65,32 +71,19 @@
 
 <br>
 
-----
 
-
-### 🪐 stoicism
+##### stoicism
 
 <br>
 
 
-<br>
-
-----
-
-### 🪐protopia 
+##### protopia 
 
 
 <br>
 
 
-
-<br>
-
-----
-
-<br>
-
-### 🪐 anarchy 
+##### anarchy 
 
 <br>
 
