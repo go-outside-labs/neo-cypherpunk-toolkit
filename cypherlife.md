@@ -45,6 +45,7 @@
 
 <br>
 
+* **[nomad toolkit, by go outside labs](https://github.com/go-outside-labs/nomad-toolkit)**
 * **[a perfect neo-cypherpunk nomad setup [2023], by bt3gl](https://mirror.xyz/bt3gl.eth/hPeVk5xPB7MN9-V0hbL088m2daTkdsPeg3I25hbYBog)**
 
 <br>
