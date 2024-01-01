@@ -40,6 +40,8 @@
 * **[[2010] decentralization in curitiba’s public schools, by s. della torre](https://acervodigital.ufpr.br/handle/1884/24232)**
 * **[[2017] the meaning of decentralization, by v. buterin](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)**
 * **[[2023] .if you're enlightened, astrology doesn't matter., by bt3gl ](https://tv.bt3gl.xyz/thefountain)**
+* **[[2024] make ethereum cypherpunk again, by v. buterin](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)**
+  
 
 <br>
 
