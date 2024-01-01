@@ -17,7 +17,7 @@
 * **[[1991] how to timestamp a digital document, by s. harber et al](http://www.staroceans.org/e-book/Haber_Stornetta.pdf)**
 * **[[1994] for-pay remailers, by hal finney](https://nakamotoinstitute.org/for-pay-remailers/)**
 * **[[1994] politics vs. technology, by hal finney](https://nakamotoinstitute.org/politics-vs-technology/)**
-* **[[1995]smart contradts glossary, by nick szabo](https://web.archive.org/web/20160417212209/http://szabo.best.vwh.net/smart_contracts_glossary.html)**
+* **[[1995] smart contracts glossary, by nick szabo](https://web.archive.org/web/20160417212209/http://szabo.best.vwh.net/smart_contracts_glossary.html)**
 * **[[1997] the idea of smart contracts, by nick szabo](https://nakamotoinstitute.org/the-idea-of-smart-contracts/)**
 * **[[1998] digital bearer settlement, by r. hettinga](https://nakamotoinstitute.org/static/docs/the-geodesic-market.pdf)**
 * **[[2000] improving time stamping schemes, by a. bonneczae et al](https://nakamotoinstitute.org/static/docs/improving-time-stamping-schemes.pdf)**
