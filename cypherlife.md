@@ -50,11 +50,12 @@
 
 <br>
 
-##### monero
+##### private transactions
 
 <br>
 
 * **[awesome monero](https://github.com/PrivOci/awesome-monero)**
+* **[railway (private defi wallet)](https://www.railway.xyz/)**
 
 <br>
 
