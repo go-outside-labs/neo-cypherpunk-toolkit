@@ -82,6 +82,88 @@
 * **eva**
 * **bt3gl**
 
+<br>
+
+----
+
+<br>
+
+### 💎 github repositories && orgs && tools from fellow cypherpunks 
+
+<br>
+
+* **[cypherpunk research](https://github.com/tombusby/cypherpunk-research)**
+* **[cryptoanarchywiki.github.io](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io)**
+* **[bitcoin.org](https://github.com/bitcoin-dot-org)**
+* **[betrusted](https://github.com/betrusted-io)**
+* **[horizen](https://github.com/HorizenOfficial)**
+* **[tellor](https://github.com/tellor-io)**
+* **[cypherpunks core](https://github.com/cypherpunks-core)**
+* **[cypherpunk lab](https://github.com/cypherpunklab)**
+* **[offsec](https://github.com/offensive-security)**
+* **[ventuno](https://github.com/ventunobtc)**
+* **[ssp wallet](https://github.com/RunOnFlux/ssp-wallet)**
+* **[inspirada na computation](https://github.com/inspiradanacomputacao)**
+* **[gitcoin](https://github.com/gitcoinco)**
+* **[france P2P (& cryptography)](https://github.com/francep2p)**
+* **[dark.fi](https://github.com/darkrenaissance)**
+* **[bitcoin in go](https://github.com/btcsuite)**
+* **[decred](https://github.com/decred)**
+* **[SkidsDAO](https://github.com/SkidsDAO)**
+* **[imperviousinc](https://github.com/imperviousinc)**
+* **[scriptzteam](https://github.com/scriptzteam)**
+* **[cypherpunk days](https://github.com/liesware/cypherpunksdays)**
+* **[cucfablab](https://github.com/cucfablab)**
+* **[ircypherpunks](https://github.com/ircypherpunks)**
+* **[cypherpunk-holdings](https://github.com/cypherpunk-holdings)**
+* **[cypherpunk-br](https://github.com/CypherpunkBR)**
+* **[cypherpunk-labs](https://github.com/Cypherpunk-Labs)**
+* **[cypherpunk-society](https://github.com/Cypherpunk-Society)**
+* **[monero space](https://github.com/MoneroSpace)**
+* **[cypherpunk pay](https://github.com/CypherpunkPay)**
+* **[satoshi nakamoto institute](https://github.com/NakamotoInstitute)**
+* **[biblioteca bitcoin](https://github.com/ventunobtc/bibliotecabitcoin)**
+* **[cypherpunkguild](https://github.com/cypherpunkguild)**
+* **[unspentspace](https://github.com/unspentspace)**
+* **[unlicense](https://github.com/unlicense)**
+* **[tons](https://github.com/ton-blockchain)**
+* **[the tor project](https://github.com/TheTorProject)**
+* **[ftessari](https://github.com/ftessari)**
+* **[cypherpunk-academy](https://github.com/cypherpunk-academy)**
+* **[cypherpunk labs](https://github.com/CypherpunkLabs)**
+* **[cypherpunk engineering](https://github.com/cypherpunkengineering)**
+* **[ctfs](https://github.com/ctfs)**
+* **[AreaLayer](https://github.com/AreaLayer)**
+* **[cpunkswritecode](https://github.com/cpunkswritecode)**
+* **[cypherpunks vancouver](https://github.com/cypherpunksvancouver)**
+* **[bitcoin dev network](https://github.com/BitcoinDeveloperNetwork)**
+* **[cyphernet-dao](https://github.com/cyphernet-dao)**
+* **[CypherpunkArmory](https://github.com/CypherpunkArmory)**
+* **[vegaprotocol](https://github.com/vegaprotocol)**
+* **[citadel](https://github.com/runcitadel)**
+* **[cryptomator](https://github.com/cryptomator)**
+* **[cypherpunks br](https://github.com/cypherpunksbr)**
+* **[JaquerEspeis](https://github.com/JaquerEspeis)**
+* **[BlockchainCommons](https://github.com/BlockchainCommons)**
+* **[life-itself](https://github.com/life-itself)**
+* **[cypher-network)](https://github.com/cypher-network)**
+* **[Lily-Technologies](https://github.com/Lily-Technologies)**
+* **[cypher punk](https://github.com/CypherPunk-git)**
+* **[h4ckbs](https://github.com/h4ckbs)**
+* **[fedimint](https://github.com/fedimint)**
+* **[FileNation](https://github.com/FileNation)**
+* **[bitcoinfo](https://github.com/bitcoinfo)**
+* **[Narwallets](https://github.com/Narwallets)**
+* **[true nodes](https://github.com/True-Mining)**
+* **[eggrepo](https://github.com/eggrepo)**
+* **[zkp-co-learning](https://github.com/zkp-co-learning)**
+* **[starlinglab](https://github.com/starlinglab)**
+* **[join matrix](https://github.com/austinhuang0131/joinmatrix)**
+* **[burner wallet](https://github.com/austintgriffith/burner-wallet)**
+* **[just delete me](https://backgroundchecks.org/justdeleteme/)**
+* **[run on flux](https://github.com/RunOnFlux)**
+* **[scritcash](https://github.com/scritcash)**
+
 
 <br>
 
@@ -449,81 +531,4 @@
 <br>
 
 ----
-
-<br>
-
-### 💎 github repositories && orgs && tools from fellow cypherpunks 
-
-<br>
-
-* **[cypherpunk research](https://github.com/tombusby/cypherpunk-research)**
-* **[cryptoanarchywiki.github.io](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io)**
-* **[bitcoin.org](https://github.com/bitcoin-dot-org)**
-* **[betrusted](https://github.com/betrusted-io)**
-* **[horizen](https://github.com/HorizenOfficial)**
-* **[tellor](https://github.com/tellor-io)**
-* **[cypherpunks core](https://github.com/cypherpunks-core)**
-* **[cypherpunk lab](https://github.com/cypherpunklab)**
-* **[offsec](https://github.com/offensive-security)**
-* **[ventuno](https://github.com/ventunobtc)**
-* **[ssp wallet](https://github.com/RunOnFlux/ssp-wallet)**
-* **[inspirada na computation](https://github.com/inspiradanacomputacao)**
-* **[gitcoin](https://github.com/gitcoinco)**
-* **[france P2P (& cryptography)](https://github.com/francep2p)**
-* **[bitcoin in go](https://github.com/btcsuite)**
-* **[decred](https://github.com/decred)**
-* **[SkidsDAO](https://github.com/SkidsDAO)**
-* **[imperviousinc](https://github.com/imperviousinc)**
-* **[scriptzteam](https://github.com/scriptzteam)**
-* **[cypherpunk days](https://github.com/liesware/cypherpunksdays)**
-* **[cucfablab](https://github.com/cucfablab)**
-* **[ircypherpunks](https://github.com/ircypherpunks)**
-* **[cypherpunk-holdings](https://github.com/cypherpunk-holdings)**
-* **[cypherpunk-br](https://github.com/CypherpunkBR)**
-* **[cypherpunk-labs](https://github.com/Cypherpunk-Labs)**
-* **[cypherpunk-society](https://github.com/Cypherpunk-Society)**
-* **[monero space](https://github.com/MoneroSpace)**
-* **[cypherpunk pay](https://github.com/CypherpunkPay)**
-* **[satoshi nakamoto institute](https://github.com/NakamotoInstitute)**
-* **[biblioteca bitcoin](https://github.com/ventunobtc/bibliotecabitcoin)**
-* **[cypherpunkguild](https://github.com/cypherpunkguild)**
-* **[unspentspace](https://github.com/unspentspace)**
-* **[unlicense](https://github.com/unlicense)**
-* **[tons](https://github.com/ton-blockchain)**
-* **[the tor project](https://github.com/TheTorProject)**
-* **[ftessari](https://github.com/ftessari)**
-* **[cypherpunk-academy](https://github.com/cypherpunk-academy)**
-* **[cypherpunk labs](https://github.com/CypherpunkLabs)**
-* **[cypherpunk engineering](https://github.com/cypherpunkengineering)**
-* **[ctfs](https://github.com/ctfs)**
-* **[AreaLayer](https://github.com/AreaLayer)**
-* **[cpunkswritecode](https://github.com/cpunkswritecode)**
-* **[cypherpunks vancouver](https://github.com/cypherpunksvancouver)**
-* **[bitcoin dev network](https://github.com/BitcoinDeveloperNetwork)**
-* **[cyphernet-dao](https://github.com/cyphernet-dao)**
-* **[CypherpunkArmory](https://github.com/CypherpunkArmory)**
-* **[vegaprotocol](https://github.com/vegaprotocol)**
-* **[citadel](https://github.com/runcitadel)**
-* **[cryptomator](https://github.com/cryptomator)**
-* **[cypherpunks br](https://github.com/cypherpunksbr)**
-* **[JaquerEspeis](https://github.com/JaquerEspeis)**
-* **[BlockchainCommons](https://github.com/BlockchainCommons)**
-* **[life-itself](https://github.com/life-itself)**
-* **[cypher-network)](https://github.com/cypher-network)**
-* **[Lily-Technologies](https://github.com/Lily-Technologies)**
-* **[cypher punk](https://github.com/CypherPunk-git)**
-* **[h4ckbs](https://github.com/h4ckbs)**
-* **[fedimint](https://github.com/fedimint)**
-* **[FileNation](https://github.com/FileNation)**
-* **[bitcoinfo](https://github.com/bitcoinfo)**
-* **[Narwallets](https://github.com/Narwallets)**
-* **[true nodes](https://github.com/True-Mining)**
-* **[eggrepo](https://github.com/eggrepo)**
-* **[zkp-co-learning](https://github.com/zkp-co-learning)**
-* **[starlinglab](https://github.com/starlinglab)**
-* **[join matrix](https://github.com/austinhuang0131/joinmatrix)**
-* **[burner wallet](https://github.com/austintgriffith/burner-wallet)**
-* **[just delete me](https://backgroundchecks.org/justdeleteme/)**
-* **[run on flux](https://github.com/RunOnFlux)**
-* **[scritcash](https://github.com/scritcash)**
 
