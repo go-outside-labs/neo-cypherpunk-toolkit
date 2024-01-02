@@ -46,7 +46,7 @@
 <br>
 
 * **[nomad toolkit, by go outside labs](https://github.com/go-outside-labs/nomad-toolkit)**
-* **[a perfect neo-cypherpunk nomad setup [2023], by bt3gl](https://mirror.xyz/bt3gl.eth/hPeVk5xPB7MN9-V0hbL088m2daTkdsPeg3I25hbYBog)**
+* **[a perfect cypherpunk nomad setup, by bt3gl](https://mirror.xyz/bt3gl.eth/hPeVk5xPB7MN9-V0hbL088m2daTkdsPeg3I25hbYBog)**
 
 <br>
 
@@ -69,7 +69,7 @@
 
 <br>
 
-* **[rewiring the brain, the promise and peril of neuroplasticity](https://www.youtube.com/watch?v=RDVgfFzZVsA)**
+* **[rewiring the brain, the promise of neuroplasticity](https://www.youtube.com/watch?v=RDVgfFzZVsA)**
 
 <br>
 
