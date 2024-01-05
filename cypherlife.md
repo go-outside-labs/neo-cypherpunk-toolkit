@@ -89,8 +89,9 @@
 
 <br>
 
-##### fiction
+##### books && fiction
 
+* **[gödel, escher, bach (the bible)](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)**
 * **[cryptonomicon, by neal stephenson](https://en.wikipedia.org/wiki/Cryptonomicon)**
 
 
