@@ -93,6 +93,7 @@
 
 * **[gödel, escher, bach (the bible)](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)**
 * **[cryptonomicon, by neal stephenson](https://en.wikipedia.org/wiki/Cryptonomicon)**
+* **[the dispossessed, ursula k. le guin](https://en.wikipedia.org/wiki/The_Dispossessed)**
 
 
 <br>
