@@ -91,11 +91,17 @@
 
 ##### books && fiction
 
+<br>
+
 * **[gödel, escher, bach (the bible)](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)**
 * **[cryptonomicon, by neal stephenson](https://en.wikipedia.org/wiki/Cryptonomicon)**
 * **[the dispossessed, by ursula k. le guin](https://en.wikipedia.org/wiki/The_Dispossessed)**
+* **[neuromancer, by william gibson](https://en.wikipedia.org/wiki/Neuromancer)**
+* **[accelerando, by charles stross](https://en.wikipedia.org/wiki/Accelerando)**
+* **[the ghost in the shell, by masamune shirow](https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(manga))**
 * **[cypherpunks, by julian assange](https://en.wikipedia.org/wiki/Cypherpunks_(book))**
-
+* **[do androids dream of electric sheep?, by p.k. dick](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)**
+* **[snow crash, by neal stephenson](https://en.wikipedia.org/wiki/Snow_Crash)**
 
 <br>
 
