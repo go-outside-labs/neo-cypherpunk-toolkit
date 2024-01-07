@@ -39,7 +39,7 @@
 * **[[2008] bitcoin: a peer-to-peer electronic cash system, by s. nakamoto](https://nakamotoinstitute.org/static/docs/bitcoin.pdf)**
 * **[[2010] decentralization in curitiba’s public schools, by s. della torre](https://acervodigital.ufpr.br/handle/1884/24232)**
 * **[[2017] the meaning of decentralization, by v. buterin](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)**
-* **[[2024] make ethereum cypherpunk again, by v. buterin](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)**
+* **[[2024] make ethereum cypherpunk again, by v. buterin](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)** ☩
   
 
 <br>
@@ -96,3 +96,9 @@
 
 <br>
 
+----
+
+<br>
+<br>
+
+☩ 𝘧o𝘳 𝘢𝘭𝘭 𝘺𝘰𝘶 𝘬𝘪𝘥𝘴 𝘸𝘩𝘰 𝘢𝘳𝘦 𝘢𝘳𝘳𝘰𝘨𝘢𝘯𝘵 𝘦𝘯𝘰𝘶𝘨𝘩 𝘵𝘰 𝘤𝘭𝘢𝘪𝘮 𝘵𝘩𝘢𝘵  “𝘷𝘪𝘵𝘢𝘭𝘪𝘬’𝘴 𝘪𝘥𝘦𝘢𝘴 𝘢𝘳𝘦 𝘰𝘭𝘥”, 𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘢 𝘭𝘰𝘯𝘨 𝘳𝘰𝘢𝘥 𝘵𝘰 𝘤𝘰𝘮𝘱𝘳𝘦𝘩𝘦𝘯𝘥 𝘵𝘩𝘦 𝘮𝘪𝘴𝘵𝘢𝘬𝘦 𝘺𝘰𝘶 𝘢𝘳𝘦 𝘮𝘢𝘬𝘪𝘯𝘨 (𝘥𝘰 𝘺𝘰𝘶 𝘳𝘦𝘢𝘭𝘭𝘺 𝘵𝘩𝘪𝘯𝘬 𝘺𝘰𝘶𝘳 𝘱𝘰𝘪𝘯𝘵 𝘰𝘧 𝘷𝘪𝘦𝘸 𝘪𝘴 𝘵𝘩𝘦 𝘰𝘳𝘪𝘨𝘪𝘯𝘢𝘭 𝘰𝘯𝘦?). 𝘸𝘦’𝘭𝘭 𝘣𝘦 𝘩𝘦𝘳𝘦 𝘸𝘩𝘦𝘯 𝘺𝘰𝘶 𝘨𝘳𝘰𝘸 𝘶𝘱 (𝘢𝘭𝘴𝘰, 𝘢𝘨𝘪𝘴𝘮 𝘪𝘴 𝘥𝘪𝘴𝘨𝘶𝘴𝘵𝘪𝘯𝘨, 𝘢𝘯𝘥 𝘺𝘰𝘶 𝘸𝘪𝘭𝘭 𝘭𝘦𝘢𝘳𝘯 𝘵𝘩𝘢𝘵 𝘵𝘰𝘰 𝘭𝘢𝘵𝘦𝘳.)
