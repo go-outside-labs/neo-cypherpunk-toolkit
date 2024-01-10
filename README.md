@@ -34,7 +34,8 @@
 * **[[1999] why i wrote PGP, by p. zimmermann](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)**
 * **[[1999] design of a secure timestamping service with minimal trust, by jj quisquater et al](https://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf)**
 * **[[2005] the case for privacy, by d. friedman](https://nakamotoinstitute.org/the-case-for-privacy/)**
-* **[[2008] bitcoin: a peer-to-peer electronic cash system, by s. nakamoto](https://nakamotoinstitute.org/static/docs/bitcoin.pdf)**
+* **[[2008] 𝙱𝙸𝚃𝙲𝙾𝙸𝙽: 𝙰 𝙿𝟸𝙿 𝙴𝙻𝙴𝙲𝚃𝚁𝙾𝙽𝙸𝙲 𝙲𝙰𝚂𝙷 𝚂𝚈𝚂𝚃𝙴𝙼](https://nakamotoinstitute.org/static/docs/bitcoin.pdf)**
+* **[[2008] 𝙶𝚄𝙴𝚁𝙸𝙻𝙻𝙰 𝙾𝙿𝙴𝙽 𝙰𝙲𝙲𝙴𝚂𝚂 𝙼𝙰𝙽𝙸𝙵𝙴𝚂𝚃𝙾](https://archive.org/details/GuerillaOpenAccessManifesto/mode/2up)**
 * **[[2010] decentralization in curitiba’s public schools, by s. della torre](https://acervodigital.ufpr.br/handle/1884/24232)**
 * **[[2017] the meaning of decentralization, by v. buterin](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)**
 * **[[2023] make ethereum cypherpunk again, by v. buterin](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)** 
