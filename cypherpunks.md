@@ -29,7 +29,7 @@
 
 <br>
 
-* **aaron swartz**
+* **[aaron swartz](http://www.aaronsw.com/)**
 * **satoshi nakamoto**
 * **moxie marlinspike**
 * **adam back**
