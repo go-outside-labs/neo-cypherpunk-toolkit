@@ -49,13 +49,13 @@
 ### 🏴 in this repo 
 
 
-#### 🔗🏴 [𝚌𝚛𝚢𝚙𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢 && 𝚌𝚒𝚙𝚑𝚎𝚛𝚜 [knowledge]](cryptography.md)
+#### [🔗 🏴 𝚌𝚛𝚢𝚙𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢 && 𝚌𝚒𝚙𝚑𝚎𝚛𝚜 [knowledge]](cryptography.md)
 
-#### 🔗[🏴 𝚌𝚛𝚢𝚙𝚝𝚘𝚌𝚞𝚛𝚛𝚎𝚗𝚌𝚒𝚎𝚜 [knowledge]](cyphermoney.md)
+#### [[🔗 🏴 𝚌𝚛𝚢𝚙𝚝𝚘𝚌𝚞𝚛𝚛𝚎𝚗𝚌𝚒𝚎𝚜 [knowledge]](cyphermoney.md)
 
-#### 🔗🏴 [𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔 𝚕𝚒𝚟𝚒𝚗𝚐 [knowledge]](cypherlife.md)
+#### [🔗 🏴 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔 𝚕𝚒𝚟𝚒𝚗𝚐 [knowledge]](cypherlife.md)
 
-#### 🔗[🏴 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔𝚜 [people]](cypherpunks.md)
+#### [🔗 🏴 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔𝚜 [people]](cypherpunks.md)
 
-#### 🔗🏴 [𝚊𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚛𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚜 𝚏𝚘𝚛 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔𝚜 [tools]](cypherlinks.md)
+#### [🔗 🏴 𝚛𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚜 𝚏𝚘𝚛 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔𝚜 [tools]](cypherlinks.md)
 
