@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-.~.~.~..~.~.~.~.~.~.~.~.~. 𝖈𝖞𝖕𝖍𝖊𝖗𝖕𝖚𝖓𝖐𝖘 𝖜𝖗𝖎𝖙𝖊 𝖈𝖔𝖉𝖊 .~.~.~.~.~.~.~..~.~.~.
+.~.~..~.~.~.~.~.~.~.~.~. 𝖈𝖞𝖕𝖍𝖊𝖗𝖕𝖚𝖓𝖐𝖘 𝖜𝖗𝖎𝖙𝖊 𝖈𝖔𝖉𝖊 .~.~.~.~.~.~.~..~.~.
 </p>
 
 
@@ -12,17 +12,14 @@
 </p>
 
 <p align="center">
-.~.~.~..~.~.~.~.~.~.~.~.~. 𝖈𝖞𝖕𝖍𝖊𝖗𝖕𝖚𝖓𝖐𝖘 𝖜𝖗𝖎𝖙𝖊 𝖈𝖔𝖉𝖊 .~.~.~.~.~.~.~..~.~.~.
+.~.~..~.~.~.~.~.~.~.~.~. 𝖈𝖞𝖕𝖍𝖊𝖗𝖕𝖚𝖓𝖐𝖘 𝖜𝖗𝖎𝖙𝖊 𝖈𝖔𝖉𝖊 .~.~.~.~.~.~.~..~.~.
 </p>
 
 
 <br>
 
-----
 
-
-### 🏴 𝟶𝟶𝟶𝟶𝟶 (start here) 
-
+### 🏴 𝟶𝟶𝟶𝟶: 
 
 * **[[1974] the dispossessed](https://en.wikipedia.org/wiki/The_Dispossessed)**
 * **[[1988] the crypto anarchist manifesto](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)**
@@ -41,21 +38,22 @@
 * **[[2017] the meaning of decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)**
 * **[[2023] make ethereum cypherpunk again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)** 
   
-
 <br>
 
 ----
 
-### 🏴 in this repo 
+### 🏴 in this repo:
+
+<br>
 
 
-#### [🔗 🏴 𝚌𝚛𝚢𝚙𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢 && 𝚌𝚒𝚙𝚑𝚎𝚛𝚜 [knowledge]](cryptography.md)
+* **[🔗 🏴 𝚛𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚜 𝚏𝚘𝚛 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔𝚜 [tools]](cypherlinks.md)**
+* **[🔗 🏴 𝚌𝚛𝚢𝚙𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢 && 𝚌𝚒𝚙𝚑𝚎𝚛𝚜 [knowledge]](cryptography.md)**
+* **[🔗 🏴 𝚌𝚛𝚢𝚙𝚝𝚘𝚌𝚞𝚛𝚛𝚎𝚗𝚌𝚒𝚎𝚜 [knowledge]](cyphermoney.md)**
+* **[🔗 🏴 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔 𝚕𝚒𝚟𝚒𝚗𝚐 [knowledge]](cypherlife.md)**
+* **[🔗 🏴 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔𝚜 [people]](cypherpunks.md)**
 
-#### [[🔗 🏴 𝚌𝚛𝚢𝚙𝚝𝚘𝚌𝚞𝚛𝚛𝚎𝚗𝚌𝚒𝚎𝚜 [knowledge]](cyphermoney.md)
+<br>
 
-#### [🔗 🏴 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔 𝚕𝚒𝚟𝚒𝚗𝚐 [knowledge]](cypherlife.md)
-
-#### [🔗 🏴 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔𝚜 [people]](cypherpunks.md)
-
-#### [🔗 🏴 𝚛𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚜 𝚏𝚘𝚛 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔𝚜 [tools]](cypherlinks.md)
+> ***"give me six hours to chop down a tree and I will spend the first four sharpening the axe."***
 
