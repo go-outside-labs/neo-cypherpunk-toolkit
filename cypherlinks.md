@@ -9,13 +9,13 @@
 
 - **[jameson lopp' bitcoin resources](https://www.lopp.net/bitcoin-information.html)**
 - **[awesome blockchain papers](https://github.com/decrypto-org/blockchain-papers)**
-- **[free programming books](https://github.com/EbookFoundation/free-programming-books/tree/main)**
+- **[large list of free programming books](https://github.com/EbookFoundation/free-programming-books/tree/main)**
 
 <br>
 
 ----
 
-### 🖤 learning resources from go outsude labs and bt3gl
+### 🖤 learning resources from go outside labs and bt3gl
 
 <br>
 
