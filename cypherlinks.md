@@ -1,13 +1,7 @@
 ## 🖤🏴 advanced resources for cypherpunks 
 
-<br>
-
-###### (do the work; wrap your anxiety in a plastic bubble and leave it there)
-###### (don't trust github, or gitlab, or netflix, or apple, or crypto stars, or elon musk🖤, or wars, or cnn, or trump-people, or protests, or laws, or science, or art, or anything outside your own intuition, or anything that could imply your brain acting under duality).
 
 <br>
-
----
 
 ### 🖤 cypherpunks write code
 
@@ -15,44 +9,37 @@
 
 - **[jameson lopp' bitcoin resources](https://www.lopp.net/bitcoin-information.html)**
 - **[awesome blockchain papers](https://github.com/decrypto-org/blockchain-papers)**
+- **[free programming books](https://github.com/EbookFoundation/free-programming-books/tree/main)**
 
 <br>
 
 ----
 
-### 🖤 things i wrote during my journey
+### 🖤 learning resources from go outsude labs and bt3gl
 
 <br>
 
-- **[mev toolkit, by go outside labs](https://github.com/go-outside-labs/mev-toolkit)**
-- **[amm arb toolkit, by go outside labs](https://github.com/go-outside-labs/amm-arb-toolkit-py)**
-- **[master algorithms in python (and the book), by go outside labs](https://github.com/go-outside-labs/master-algorithms-py)**
-- **[searcher for cowswap, by go outside labs](https://github.com/go-outside-labs/searcher-cowswap-py)**
-- **[generative story collection, by go outside labs](https://github.com/go-outside-labs/generative-sol)**
-- **[blockchain science in rust, by go outside labs](https://github.com/go-outside-labs/blockchain-science-rs)**
-- **[blockchain science in python, by go outside labs](https://github.com/go-outside-labs/blockchain-science-py)**
-- **[ethernaut systematic solutions in foundry, by go outside labs](https://github.com/go-outside-labs/ethernaut-systematic-solutions-foundry-sol)**
-- **[sec pentesting toolkit, by go outside labs](https://github.com/go-outside-labs/sec-pentesting-toolkit)**
-- **[quantum computing, by go outside labs](https://github.com/go-outside-labs/quantum-computing-toolkit)**
-- **[quantitative finance toolkit, by go outside labs](https://github.com/go-outside-labs/quantitative-finance-toolkit)**
-- **[shell-toolkit, by go outside labs](https://github.com/go-outside-labs/shell-toolkit)**
-- **[nomad toolkit, by go outside labs](https://github.com/go-outside-labs/nomad-toolkit)**
-- **[blockchain auditing, by go outside labs](https://github.com/go-outside-labs/blockchains-auditing)**
-- **[decentralized research, by go outside labs](https://github.com/go-outside-labs/decentralized-protocols-research)**
-- **[nft toolkit, by go outside labs](https://github.com/go-outside-labs/nfts-toolkit)**
-- **[tokenomics and daos, by go outside labs](https://github.com/go-outside-labs/tokenomics-and-daos)**
-- **[advanced optimization for physics, by go outside labs](https://github.com/go-outside-labs/adv-optimization-physics-py)**
-- **[ml complex networks, by go outside labs](https://github.com/go-outside-labs/ml-complex-networks)**
-- **[exolife, by go outside labs](https://github.com/go-outside-labs/exolife)**
+- **[mev toolkit](https://github.com/go-outside-labs/mev-toolkit)**
+- **[amm arb toolkit](https://github.com/go-outside-labs/amm-arb-toolkit-py)**
+- **[master algorithms in python (and the book)](https://github.com/go-outside-labs/master-algorithms-py)**
+- **[searcher for cowswap](https://github.com/go-outside-labs/searcher-cowswap-py)**
+- **[generative story collection](https://github.com/go-outside-labs/generative-sol)**
+- **[blockchain science in rust](https://github.com/go-outside-labs/blockchain-science-rs)**
+- **[blockchain science in python](https://github.com/go-outside-labs/blockchain-science-py)**
+- **[ethernaut systematic solutions in foundry](https://github.com/go-outside-labs/ethernaut-systematic-solutions-foundry-sol)**
+- **[sec pentesting toolkit,](https://github.com/go-outside-labs/sec-pentesting-toolkit)**
+- **[quantum computing](https://github.com/go-outside-labs/quantum-computing-toolkit)**
+- **[quantitative finance toolkit](https://github.com/go-outside-labs/quantitative-finance-toolkit)**
+- **[shell toolkit](https://github.com/go-outside-labs/shell-toolkit)**
+- **[nomad toolkit](https://github.com/go-outside-labs/nomad-toolkit)**
+- **[blockchain auditing](https://github.com/go-outside-labs/blockchains-auditing)**
+- **[decentralized research](https://github.com/go-outside-labs/decentralized-protocols-research)**
+- **[nft toolkit](https://github.com/go-outside-labs/nfts-toolkit)**
+- **[tokenomics and daos](https://github.com/go-outside-labs/tokenomics-and-daos)**
+- **[advanced optimization for physics](https://github.com/go-outside-labs/adv-optimization-physics-py)**
+- **[ml complex networks](https://github.com/go-outside-labs/ml-complex-networks)**
 - **[the game of $choices, by midsumm3r dao](https://www.midsumm3r.xyz/)**
 
-<br>
-
----
-
-### 🖤 canonical tools
-
-<br>
 
 
 
