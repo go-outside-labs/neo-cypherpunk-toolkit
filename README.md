@@ -23,7 +23,7 @@
 
 * **[[1974] the dispossessed](https://en.wikipedia.org/wiki/The_Dispossessed)**
 * **[[1988] the crypto anarchist manifesto](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)**
-* **[[1993] a cypherunk's manifesto](https://activism.net/cypherpunk/manifesto.html)**
+* **[[1993] a cypherpunk's manifesto](https://activism.net/cypherpunk/manifesto.html)**
 * **[[1994] cyberspace, crypto anarchy, pushing limits](https://nakamotoinstitute.org/cyberspace-crypto-anarchy-and-pushing-limits/)**
 * **[[1996] a declaration of the independence of cyberspace](https://www.eff.org/cyberspace-independence)**
 * **[[1997] the idea of smart contracts](https://nakamotoinstitute.org/the-idea-of-smart-contracts/)**
@@ -33,7 +33,7 @@
 * **[[2005] the case for privacy](https://nakamotoinstitute.org/the-case-for-privacy/)**
 * **[[2008] 𝙱𝙸𝚃𝙲𝙾𝙸𝙽: 𝙰 𝙿𝟸𝙿 𝙴𝙻𝙴𝙲𝚃𝚁𝙾𝙽𝙸𝙲 𝙲𝙰𝚂𝙷 𝚂𝚈𝚂𝚃𝙴𝙼](https://nakamotoinstitute.org/static/docs/bitcoin.pdf)**
 * **[[2008] 𝙶𝚄𝙴𝚁𝙸𝙻𝙻𝙰 𝙾𝙿𝙴𝙽 𝙰𝙲𝙲𝙴𝚂𝚂 𝙼𝙰𝙽𝙸𝙵𝙴𝚂𝚃𝙾](https://archive.org/details/GuerillaOpenAccessManifesto/mode/2up)**
-* **[[2010] decentralization in curitiba’s public schools](https://acervodigital.ufpr.br/handle/1884/24232)**
+* **[[2010] decentralization in brazilian public schools](https://acervodigital.ufpr.br/handle/1884/24232)**
 * **[[2013] requiem for a dream](https://www.newyorker.com/magazine/2013/03/11/requiem-for-a-dream)**
 * **[[2017] the meaning of decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)**
 * **[[2023] make ethereum cypherpunk again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)** 
@@ -55,5 +55,5 @@
 
 <br>
 
-> ***"give me six hours to chop down a tree and I will spend the first four sharpening the axe."***
+> ***"give me 6 hours to chop down a tree and I will spend the first 5 sharpening the axe."***
 
