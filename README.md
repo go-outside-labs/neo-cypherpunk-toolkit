@@ -2,15 +2,16 @@
 
 <br>
 
-### this week's cypherpunk news
+### 🧑🏽‍🎤 𝚝𝚑𝚒𝚜 𝚠𝚎𝚎𝚔'𝚜 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔 𝚗𝚎𝚠𝚜
 
 <br>
 
-* **[2024/02/01](news/2024/README.md)**
+* **[2024](news/2024/README.md)**
 
 
 
-
+<br>
+<br>
 <br>
 
 
