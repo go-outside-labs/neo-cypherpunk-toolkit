@@ -1,17 +1,20 @@
-## 𝚝𝚑𝚎 𝚗𝚎𝚘-𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔 𝚝𝚘𝚘𝚕𝚔𝚒𝚝
+# 𝚝𝚑𝚎 𝚗𝚎𝚘-𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔 𝚝𝚘𝚘𝚕𝚔𝚒𝚝
 
 <br>
 
-### 🧑🏽‍🎤 𝚝𝚑𝚒𝚜 𝚠𝚎𝚎𝚔'𝚜 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔 𝚗𝚎𝚠𝚜
+## 🧑🏽‍🎤 𝚝𝚑𝚒𝚜 𝚠𝚎𝚎𝚔'𝚜 𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔 𝚗𝚎𝚠𝚜
 
 <br>
 
-* **[2024](news/2024/README.md)**
+### [🟣 2024](news/2024/README.md)
 
 
 
 <br>
 <br>
+
+----
+
 <br>
 
 
@@ -55,7 +58,7 @@
 
 ----
 
-### 🏴 in this repo:
+### 🏴 more stuff?
 
 <br>
 
@@ -68,5 +71,4 @@
 
 <br>
 
-> ***"give me 6 hours to chop down a tree and I will spend the first 5 sharpening the axe."***
 
