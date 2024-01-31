@@ -25,8 +25,9 @@
 
 <br>
 
-* **[pandora's bots: cheaper than free speech?, by jason zhao](https://stanfordrewired.com/post/bots-free-speech)**
 * **[the end of my childhood, by v. buterin](https://vitalik.eth.limo/general/2024/01/31/end.html)**
+* **[pandora's bots: cheaper than free speech?, by jason zhao](https://stanfordrewired.com/post/bots-free-speech)**
+
 
 
 <br>
