@@ -1,6 +1,5 @@
 ## 🧮🏴 cryptography && ciphers [knowledge]
 
-###### (just do the freakin' math - seriously, stop aiming for short-term gratification... fvck)
 
 <br>
 
