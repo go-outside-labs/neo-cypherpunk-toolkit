@@ -1,7 +1,5 @@
 ## 🪐🏴 cypherpunk living [knowledge]
 
-###### (wikis and resources on being a cypherpunk, coder-outcast-autist, including nomadism, brain plasticity, stoicism, etc.)
-
 
 <br>
 
