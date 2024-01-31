@@ -1,6 +1,5 @@
 ## 🪙🏴 cryptocurrencies [knowledge]
 
-###### (we are not going anywhere, deal with it - and then join us, we have cookies)
 
 <br>
 
