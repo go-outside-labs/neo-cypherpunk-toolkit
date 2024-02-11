@@ -1,9 +1,9 @@
-## 🪐🏴 cypherpunk living [knowledge]
+## 🪐🏴 cypherpunk living 
 
 
 <br>
 
-## 🖤🏴 resources for cypherpunks 
+### resources for cypherpunks 
 
 <br>
 
@@ -17,14 +17,13 @@
 - **[the pentacle project](https://pentacle.xyz/)**
 
 
-
+<br>
 
 ----
 
-### 🪐 canonical readings 
+### canonical readings 
 
 
-<br>
 
 * **[[1994] the cyphernomicon, t.c. may](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt)**
 * **[[1997] formalizing and securing relationships on public networks, nick szabo](https://nakamotoinstitute.org/formalizing-securing-relationships/)**
@@ -37,9 +36,8 @@
 
 ---
 
-### 🪐 wikis && magazines
+### wikis && magazines
 
-<br>
 
 * **[electronic magazines](http://www.textfiles.com/magazines/)**
 * **[crypto anarchy wiki](https://cryptoanarchy.wiki/)**
@@ -50,7 +48,7 @@
 
 ----
 
-### 🪐 lifestyle
+### lifestyle
 
 <br>
 
