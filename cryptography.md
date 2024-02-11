@@ -5,7 +5,7 @@
 
 ----
 
-### 🧮 canonical readings
+### canonical readings
 
 <br>
 
@@ -19,7 +19,7 @@
 
 ----
 
-### 🧮 books
+### books
 
 <br>
 
