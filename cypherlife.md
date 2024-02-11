@@ -53,6 +53,7 @@
 <br>
 
 * **[anonymousplanet](https://anonymousplanet.org/)**
+* **[blockchain dark forest selfguard handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)**
 
 <br>
 
