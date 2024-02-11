@@ -1,4 +1,4 @@
-## 🧮🏴 cryptography && ciphers [knowledge]
+## 🧮🏴 cryptography
 
 
 <br>
