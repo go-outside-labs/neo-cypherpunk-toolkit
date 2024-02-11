@@ -3,7 +3,6 @@
 
 <br>
 
-----
 
 ### canonical readings
 
