@@ -54,6 +54,7 @@
 
 * **[anonymousplanet](https://anonymousplanet.org/)**
 * **[blockchain dark forest selfguard handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)**
+* **[freehaven.net (on tor)](http://7fa6xlti5joarlmkuhjaifa47ukgcwz6tfndgax45ocyn4rixm632jid.onion/index.html)**
 
 <br>
 
