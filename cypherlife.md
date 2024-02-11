@@ -54,6 +54,7 @@
 
 * **[awesome monero](https://github.com/PrivOci/awesome-monero)**
 * **[railway (private defi wallet)](https://www.railway.xyz/)**
+* **[CIA_Officer + monero](https://telegra.ph/CIA-Officer--Monero-05-08)**
 
 <br>
 
