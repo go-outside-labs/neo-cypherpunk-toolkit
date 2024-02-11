@@ -1,9 +1,9 @@
-## 🪙🏴 cryptocurrencies [knowledge]
+## 🪙🏴 cryptocurrencies 
 
 
 <br>
 
-### 🪙 canonical readings
+### canonical readings
 
 <br>
 
@@ -28,7 +28,7 @@
 
 ---
 
-### 🪙 books
+### books
 
 <br>
 
