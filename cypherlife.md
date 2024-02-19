@@ -92,6 +92,7 @@
 <br>
 
 * **[rewiring the brain, the promise of neuroplasticity](https://www.youtube.com/watch?v=RDVgfFzZVsA)**
+* **[neuroplasticity, by huberman lab](https://www.hubermanlab.com/topics/neuroplasticity-and-behavior-change)**
 
 <br>
 
