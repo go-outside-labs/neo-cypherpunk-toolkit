@@ -81,6 +81,14 @@
 
 <br>
 
+##### reverse turing test
+
+<br>
+
+* **[the dark forest of generative AI, we are not ready, by kyle hill](https://www.youtube.com/watch?v=JrcbH0ge2WE)**
+
+<br>
+
 
 ##### autism
 
