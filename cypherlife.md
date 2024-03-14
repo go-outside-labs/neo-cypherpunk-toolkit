@@ -57,7 +57,7 @@
 <br>
 
 * **[nomad toolkit, by go outside labs](https://github.com/go-outside-labs/nomad-toolkit)**
-* **[a perfect cypherpunk nomad setup, by bt3gl](https://mirror.xyz/bt3gl.eth/hPeVk5xPB7MN9-V0hbL088m2daTkdsPeg3I25hbYBog)**
+* **[a perfect cypherpunk nomad setup, by mia stein](https://mirror.xyz/motherofbots.eth/hPeVk5xPB7MN9-V0hbL088m2daTkdsPeg3I25hbYBog)**
 
 <br>
 
