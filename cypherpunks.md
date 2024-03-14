@@ -11,7 +11,6 @@
 * **[the anon game, by polynya](https://polynya.mirror.xyz/oruSLHzzOQOdZwX_DyQcL-fMvX4rSybhc1Z-MdndAW0)**
 * **[the end of my childhood, by v. buterin](https://vitalik.eth.limo/general/2024/01/31/end.html)**
 * **[the world hates crypto, by coopahtroopa](https://coopahtroopa.mirror.xyz/kSuSb_2n3i29H31Jubf5qDL0CZi-T-Sve0e0PPVxQRM)**
-* **[on life celibacy and how inclusion rhetoric killed meritocracy, by bt3gl](https://mirror.xyz/bt3gl.eth/mNDymtT5in8bFF83a0ECwsTSpqnA4rcFxmr0MU_W2hg)**
 
 
 
