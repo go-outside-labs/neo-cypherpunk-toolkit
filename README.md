@@ -25,7 +25,8 @@
 * **[[2010] decentralization in brazilian public schools](https://acervodigital.ufpr.br/handle/1884/24232)**
 * **[[2013] requiem for a dream](https://www.newyorker.com/magazine/2013/03/11/requiem-for-a-dream)**
 * **[[2017] the meaning of decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)**
-* **[[2023] make ethereum cypherpunk again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)** 
+* **[[2023] make ethereum cypherpunk again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)**
+* **[[2024] degen communism](https://vitalik.eth.limo/general/2024/04/01/dc.html)**
   
 <br>
 
